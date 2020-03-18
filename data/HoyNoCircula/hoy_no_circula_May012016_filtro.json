@@ -1,0 +1,4516 @@
+[
+    {
+        "from_user": "oscarhumb", 
+        "from_user_id_str": "210320595", 
+        "hashtags": [], 
+        "id_str": "726921440646197248", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 23:49:11 +0000 2016", 
+        "user_followers_count": 378, 
+        "user_friends_count": 345, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lindurafrancia", 
+        "from_user_id_str": "1711308836", 
+        "hashtags": [
+            "Informaci\u00f3n\u00datilYOportuna", 
+            "Naucalpan", 
+            "CiudadConVida"
+        ], 
+        "id_str": "726919121888104448", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Oapas_ConVida: Cambios en el hoy no circula.  #Informaci\u00f3n\u00datilYOportuna #Naucalpan #CiudadConVida https://t.co/9mfJaejOen", 
+        "time": "Sun May 01 23:39:58 +0000 2016", 
+        "user_followers_count": 331, 
+        "user_friends_count": 769, 
+        "user_location": "ESTADO DE MEXICO", 
+        "user_mentions": [
+            "Oapas_ConVida"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "jerryvla83", 
+        "from_user_id_str": "2598673699", 
+        "hashtags": [
+            "Informaci\u00f3n\u00datilYOportuna", 
+            "Naucalpan", 
+            "CiudadConVida"
+        ], 
+        "id_str": "726919095866650624", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Oapas_ConVida: Cambios en el hoy no circula.  #Informaci\u00f3n\u00datilYOportuna #Naucalpan #CiudadConVida https://t.co/9mfJaejOen", 
+        "time": "Sun May 01 23:39:52 +0000 2016", 
+        "user_followers_count": 386, 
+        "user_friends_count": 995, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Oapas_ConVida"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "elmetalero89", 
+        "from_user_id_str": "182959542", 
+        "hashtags": [], 
+        "id_str": "726918905298472960", 
+        "in_reply_to_screen_name": "SEDEMA_CDMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@SEDEMA_CDMX  hasta ustedes violan el hoy no circula y todo el gobierno de los tres niveles si es asi que sea para todos lacras", 
+        "time": "Sun May 01 23:39:07 +0000 2016", 
+        "user_followers_count": 3, 
+        "user_friends_count": 13, 
+        "user_location": "None", 
+        "user_mentions": [
+            "SEDEMA_CDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "elmetalero89", 
+        "from_user_id_str": "182959542", 
+        "hashtags": [], 
+        "id_str": "726918719851491329", 
+        "in_reply_to_screen_name": "SEDEMA_CDMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@SEDEMA_CDMX  de que sirvi\u00f3 el mentado hoy no circula si los ricos y del gobierno no ponen la muestra siempre tienen que fregar al publico", 
+        "time": "Sun May 01 23:38:22 +0000 2016", 
+        "user_followers_count": 3, 
+        "user_friends_count": 13, 
+        "user_location": "None", 
+        "user_mentions": [
+            "SEDEMA_CDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "slizgutierrez", 
+        "from_user_id_str": "2566253566", 
+        "hashtags": [], 
+        "id_str": "726918217822691328", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015 \u00bfMejor\u00f3? https://t.co/emdzJaZrLu", 
+        "time": "Sun May 01 23:36:23 +0000 2016", 
+        "user_followers_count": 66, 
+        "user_friends_count": 72, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "LeslyBs1", 
+        "from_user_id_str": "701499252", 
+        "hashtags": [
+            "MayoConMDe", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726917643244969985", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Reporte98_5: #MayoConMDe Mejor checa el calendario #HoyNoCircula y evita ser multado \ud83d\ude97\ud83d\ude95\ud83d\ude99\ud83d\udea6 https://t.co/F3TbopBhnX", 
+        "time": "Sun May 01 23:34:06 +0000 2016", 
+        "user_followers_count": 647, 
+        "user_friends_count": 1116, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Reporte98_5"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "mustang0469", 
+        "from_user_id_str": "158818249", 
+        "hashtags": [
+            "MayoConMDe", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726917283679858689", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Reporte98_5: #MayoConMDe Mejor checa el calendario #HoyNoCircula y evita ser multado \ud83d\ude97\ud83d\ude95\ud83d\ude99\ud83d\udea6 https://t.co/F3TbopBhnX", 
+        "time": "Sun May 01 23:32:40 +0000 2016", 
+        "user_followers_count": 120, 
+        "user_friends_count": 293, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Reporte98_5"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "m1_on_air", 
+        "from_user_id_str": "89559846", 
+        "hashtags": [], 
+        "id_str": "726915263271067648", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015 \u00bfMejor\u00f3? https://t.co/emdzJaZrLu", 
+        "time": "Sun May 01 23:24:38 +0000 2016", 
+        "user_followers_count": 127, 
+        "user_friends_count": 219, 
+        "user_location": "Coyoac\u00e1n, Distrito Federal", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Becerril_Ruth", 
+        "from_user_id_str": "3301117226", 
+        "hashtags": [], 
+        "id_str": "726912665193320448", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 23:14:19 +0000 2016", 
+        "user_followers_count": 145, 
+        "user_friends_count": 102, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "revistatyt", 
+        "from_user_id_str": "51459910", 
+        "hashtags": [
+            "QueNoSeTePase", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726909831781588992", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "text": "#QueNoSeTePase Medidas emergentes del #HoyNoCircula podr\u00edan concluir antes del 30 de junio: @CAMegalopolis https://t.co/RIalWiABn1", 
+        "time": "Sun May 01 23:03:03 +0000 2016", 
+        "user_followers_count": 4146, 
+        "user_friends_count": 406, 
+        "user_location": "Tel. 53621501", 
+        "user_mentions": [
+            "CAMegalopolis"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "TODOCOYOACAN", 
+        "from_user_id_str": "2990475304", 
+        "hashtags": [
+            "Hoynocircula", 
+            "VotodecastigoalPRD"
+        ], 
+        "id_str": "726909043055296512", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Cesar_HerreraV: Gracias @PRD y @ManceraMiguelMX por no consultar expertos Tu #Hoynocircula Se pide #VotodecastigoalPRD @galvanochoa  ht\u2026", 
+        "time": "Sun May 01 22:59:55 +0000 2016", 
+        "user_followers_count": 857, 
+        "user_friends_count": 318, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Cesar_HerreraV", 
+            "prd", 
+            "ManceraMiguelMX", 
+            "galvanochoa"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ness_ernesto", 
+        "from_user_id_str": "2960868447", 
+        "hashtags": [], 
+        "id_str": "726907402256162816", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 22:53:24 +0000 2016", 
+        "user_followers_count": 87, 
+        "user_friends_count": 47, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BruceGportillo7", 
+        "from_user_id_str": "2991419646", 
+        "hashtags": [], 
+        "id_str": "726905885398700032", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el Hoy No Circula ampliado https://t.co/vCVLZVMWqb https://t.co/dyCF1HtrF4", 
+        "time": "Sun May 01 22:47:22 +0000 2016", 
+        "user_followers_count": 44, 
+        "user_friends_count": 348, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "SisMirna", 
+        "from_user_id_str": "1375255111", 
+        "hashtags": [], 
+        "id_str": "726905488005177344", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @MircallaL: Hoy s\u00ed estoy aplicando el hoy no circula a mis responsabilidades.", 
+        "time": "Sun May 01 22:45:48 +0000 2016", 
+        "user_followers_count": 35, 
+        "user_friends_count": 79, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MircallaL"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "PameRuizCas1", 
+        "from_user_id_str": "3180124692", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726903837567524864", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @AsambleaDF: Se debe implementar un plan para atender saturaci\u00f3n del @MetroCDMX derivado del nuevo #HoyNoCircula: dip. @Luis_GQM. https:\u2026", 
+        "time": "Sun May 01 22:39:14 +0000 2016", 
+        "user_followers_count": 141, 
+        "user_friends_count": 304, 
+        "user_location": "La Magdalena Contreras, Distrito Federal", 
+        "user_mentions": [
+            "AsambleaDF", 
+            "MetroCDMX", 
+            "Luis_GQM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "1gn4c1099", 
+        "from_user_id_str": "708051591727742976", 
+        "hashtags": [
+            "MeHaceMuyFeliz", 
+            "HoyNoCircula", 
+            "YoNuncaNunca"
+        ], 
+        "id_str": "726903014150131713", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Sophia_Mor: #MeHaceMuyFeliz levantar al muerto.#HoyNoCircula sino ganas de sexo#YoNuncaNunca dejar\u00e9 de incitarte. https://t.co/86Ep2v\u2026", 
+        "time": "Sun May 01 22:35:58 +0000 2016", 
+        "user_followers_count": 8, 
+        "user_friends_count": 30, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Sophia_Mor"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Laus_ceci", 
+        "from_user_id_str": "248492357", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "lomasviral"
+        ], 
+        "id_str": "726901594021752832", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: El humor de @CarlosChaviraTV sobre el programa #HoyNoCircula en v\u00edsperas del nuevo plan ambiental. #lomasviralhttps://t.co/\u2026", 
+        "time": "Sun May 01 22:30:19 +0000 2016", 
+        "user_followers_count": 108, 
+        "user_friends_count": 296, 
+        "user_location": "MEXICO", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "CarlosChaviraTV"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "bernalbernale", 
+        "from_user_id_str": "172967680", 
+        "hashtags": [], 
+        "id_str": "726900247851495424", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @periodico_leo: Llama Dip. @Luis_GQM a Subsecretaria de Operaci\u00f3n Metropolitana, Leticia Quesada, actuar ante contingencia ambiental htt\u2026", 
+        "time": "Sun May 01 22:24:58 +0000 2016", 
+        "user_followers_count": 326, 
+        "user_friends_count": 399, 
+        "user_location": "La Magdalena Contreras", 
+        "user_mentions": [
+            "periodico_leo", 
+            "Luis_GQM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "bernalbernale", 
+        "from_user_id_str": "172967680", 
+        "hashtags": [], 
+        "id_str": "726900233779601408", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ComunicaLGQM: Pide Dip. @Luis_GQM a Subsecretar\u00eda de Coord. Metropolitana informe sobre acciones ante contingencia ambiental https://t.\u2026", 
+        "time": "Sun May 01 22:24:55 +0000 2016", 
+        "user_followers_count": 326, 
+        "user_friends_count": 399, 
+        "user_location": "La Magdalena Contreras", 
+        "user_mentions": [
+            "ComunicaLGQM", 
+            "Luis_GQM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lauvidales", 
+        "from_user_id_str": "73936198", 
+        "hashtags": [], 
+        "id_str": "726895390390259712", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015 \u00bfMejor\u00f3? https://t.co/emdzJaZrLu", 
+        "time": "Sun May 01 22:05:40 +0000 2016", 
+        "user_followers_count": 1229, 
+        "user_friends_count": 835, 
+        "user_location": "Mexico City", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "mucilaus", 
+        "from_user_id_str": "898903177", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "lomasviral"
+        ], 
+        "id_str": "726894048523358210", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: El humor de @CarlosChaviraTV sobre el programa #HoyNoCircula en v\u00edsperas del nuevo plan ambiental. #lomasviralhttps://t.co/\u2026", 
+        "time": "Sun May 01 22:00:20 +0000 2016", 
+        "user_followers_count": 11, 
+        "user_friends_count": 62, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "CarlosChaviraTV"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Eloy_Nocircula", 
+        "from_user_id_str": "540672804", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726892766966386688", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Comunidad_Exc: Impulsan carpooling entre universitarios ante el #HoyNoCircula ampliado. https://t.co/oEkksBv5J6 https://t.co/lHUUrGItPn", 
+        "time": "Sun May 01 21:55:15 +0000 2016", 
+        "user_followers_count": 1067, 
+        "user_friends_count": 2309, 
+        "user_location": "Mx Df", 
+        "user_mentions": [
+            "Comunidad_Exc"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "nupilibra", 
+        "from_user_id_str": "133994152", 
+        "hashtags": [
+            "Finanzas"
+        ], 
+        "id_str": "726891580859158528", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Proyecto40: Hoy no Circula limpia el camino a los autos el\u00e9ctricos. #Finanzas https://t.co/iZmADylSH8 https://t.co/cK0kc3Ea9b", 
+        "time": "Sun May 01 21:50:32 +0000 2016", 
+        "user_followers_count": 61, 
+        "user_friends_count": 106, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Proyecto40"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DoniaLaria", 
+        "from_user_id_str": "1115940696", 
+        "hashtags": [], 
+        "id_str": "726891006285639680", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:48:15 +0000 2016", 
+        "user_followers_count": 98, 
+        "user_friends_count": 126, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "iCarlitos_a", 
+        "from_user_id_str": "1938896862", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726890734792503296", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @d4nielito_: Cuando toca el #HoyNoCircula \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/OyoP1zbsbN", 
+        "time": "Sun May 01 21:47:10 +0000 2016", 
+        "user_followers_count": 252, 
+        "user_friends_count": 520, 
+        "user_location": "Pachuca, DF, Edo. Mex.", 
+        "user_mentions": [
+            "d4nielito_"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ENERGIAMEX2015", 
+        "from_user_id_str": "170159010", 
+        "hashtags": [], 
+        "id_str": "726890528487280641", 
+        "in_reply_to_screen_name": "robertobarquin", 
+        "in_reply_to_status_id_str": "726887779594960897", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@robertobarquin El programa hoy no circula se empata con la quema de terrenos para cultivo o no @eruviel_avila  y @ManceraMiguelMX ?", 
+        "time": "Sun May 01 21:46:21 +0000 2016", 
+        "user_followers_count": 423, 
+        "user_friends_count": 647, 
+        "user_location": "None", 
+        "user_mentions": [
+            "robertobarquin", 
+            "eruviel_avila", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "pieras_arturo", 
+        "from_user_id_str": "719798431963676673", 
+        "hashtags": [], 
+        "id_str": "726889732257382402", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:43:11 +0000 2016", 
+        "user_followers_count": 32, 
+        "user_friends_count": 225, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DonnovanMtz", 
+        "from_user_id_str": "3249804944", 
+        "hashtags": [], 
+        "id_str": "726889657418444801", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:42:53 +0000 2016", 
+        "user_followers_count": 42, 
+        "user_friends_count": 198, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "burbux01", 
+        "from_user_id_str": "3224759251", 
+        "hashtags": [], 
+        "id_str": "726889595523072000", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:42:39 +0000 2016", 
+        "user_followers_count": 114, 
+        "user_friends_count": 149, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ALEJANDROESPI57", 
+        "from_user_id_str": "441871651", 
+        "hashtags": [], 
+        "id_str": "726888811242778624", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:39:32 +0000 2016", 
+        "user_followers_count": 1894, 
+        "user_friends_count": 2714, 
+        "user_location": "VILLA ALDAMA TAMP", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BarushGonzalezG", 
+        "from_user_id_str": "1485708541", 
+        "hashtags": [], 
+        "id_str": "726887574338342912", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:34:37 +0000 2016", 
+        "user_followers_count": 1376, 
+        "user_friends_count": 2560, 
+        "user_location": "CDMX.", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "krogp80", 
+        "from_user_id_str": "1671940884", 
+        "hashtags": [], 
+        "id_str": "726887303734394880", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: EL HOY NO CIRCULA PAREJO PARA TODOS. JORGE BECERRIL: https://t.co/xAH0SkSozQ v\u00eda @YouTube", 
+        "time": "Sun May 01 21:33:32 +0000 2016", 
+        "user_followers_count": 713, 
+        "user_friends_count": 795, 
+        "user_location": "Azcapotzalco", 
+        "user_mentions": [
+            "MrElDiablo8", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Barajas02Edgar", 
+        "from_user_id_str": "2386203156", 
+        "hashtags": [], 
+        "id_str": "726883300942315522", 
+        "in_reply_to_screen_name": "GaboOrtega73", 
+        "in_reply_to_status_id_str": "726851409342140416", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@GaboOrtega73 o que la canci\u00f3n o una u otra no se puede todo pero mejor el hoy no circula es m\u00e1s f\u00e1cil y deja$$$ contentos a muchos", 
+        "time": "Sun May 01 21:17:38 +0000 2016", 
+        "user_followers_count": 31, 
+        "user_friends_count": 274, 
+        "user_location": "None", 
+        "user_mentions": [
+            "GaboOrtega73"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "hades_cronos", 
+        "from_user_id_str": "1942252802", 
+        "hashtags": [], 
+        "id_str": "726883214988431360", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "726806149912137728", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@ManceraMiguelMX ser\u00e1 que quieres limpiar t\u00fa imagen despu\u00e9s de lo del hoy no circula. ..Meximpunidad", 
+        "time": "Sun May 01 21:17:17 +0000 2016", 
+        "user_followers_count": 14, 
+        "user_friends_count": 36, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "danieloseguera1", 
+        "from_user_id_str": "845526601", 
+        "hashtags": [], 
+        "id_str": "726880608987680768", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 21:06:56 +0000 2016", 
+        "user_followers_count": 1977, 
+        "user_friends_count": 1405, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "NIGFJ", 
+        "from_user_id_str": "168376138", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "lomasviral"
+        ], 
+        "id_str": "726878237377228800", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: El humor de @CarlosChaviraTV sobre el programa #HoyNoCircula en v\u00edsperas del nuevo plan ambiental. #lomasviralhttps://t.co/\u2026", 
+        "time": "Sun May 01 20:57:31 +0000 2016", 
+        "user_followers_count": 227, 
+        "user_friends_count": 405, 
+        "user_location": "M\u00e9xico, DF", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "CarlosChaviraTV"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "AnaMaryGL", 
+        "from_user_id_str": "229590605", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "NoAlHoyNoCircula"
+        ], 
+        "id_str": "726873154497339392", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Estos son los que deber\u00edan tnr hasta 3ple #HoyNoCircula \ud83d\udcaa\ud83c\udfff\ud83d\ude37 #NoAlHoyNoCircula @GobCDMX @edomex https://t.co/VOrHGY9oa4", 
+        "time": "Sun May 01 20:37:19 +0000 2016", 
+        "user_followers_count": 87, 
+        "user_friends_count": 139, 
+        "user_location": "None", 
+        "user_mentions": [
+            "GobCDMX", 
+            "edomex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Dannyto67", 
+        "from_user_id_str": "202411810", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726870877439168512", 
+        "in_reply_to_screen_name": "CarlosLoret", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@CarlosLoret @PedroFerriz @ruizhealy Alguien sabe algo del rumor sobre las Gasolinas Chinas q son parte de la realidad del #HoyNoCircula", 
+        "time": "Sun May 01 20:28:16 +0000 2016", 
+        "user_followers_count": 68, 
+        "user_friends_count": 96, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "CarlosLoret", 
+            "PedroFerriz", 
+            "ruizhealy"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "jerryvla83", 
+        "from_user_id_str": "2598673699", 
+        "hashtags": [
+            "Informaci\u00f3n\u00datilYOportuna", 
+            "Naucalpan", 
+            "CiudadConVida"
+        ], 
+        "id_str": "726868251045597185", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Oapas_ConVida: Cambios en el hoy no circula.  #Informaci\u00f3n\u00datilYOportuna #Naucalpan #CiudadConVida https://t.co/T3crClPtor", 
+        "time": "Sun May 01 20:17:50 +0000 2016", 
+        "user_followers_count": 386, 
+        "user_friends_count": 995, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Oapas_ConVida"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lindurafrancia", 
+        "from_user_id_str": "1711308836", 
+        "hashtags": [
+            "Informaci\u00f3n\u00datilYOportuna", 
+            "Naucalpan", 
+            "CiudadConVida"
+        ], 
+        "id_str": "726868234620702720", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Oapas_ConVida: Cambios en el hoy no circula.  #Informaci\u00f3n\u00datilYOportuna #Naucalpan #CiudadConVida https://t.co/T3crClPtor", 
+        "time": "Sun May 01 20:17:46 +0000 2016", 
+        "user_followers_count": 331, 
+        "user_friends_count": 769, 
+        "user_location": "ESTADO DE MEXICO", 
+        "user_mentions": [
+            "Oapas_ConVida"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "antoanml", 
+        "from_user_id_str": "624943503", 
+        "hashtags": [], 
+        "id_str": "726864324254269440", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @lamendiga: @ManceraMiguelMX ... Los Domingos no hay  contingencia ambiental ???  Es permitida la quema de cuetes como lo estan haciendo\u2026", 
+        "time": "Sun May 01 20:02:14 +0000 2016", 
+        "user_followers_count": 16, 
+        "user_friends_count": 37, 
+        "user_location": "None", 
+        "user_mentions": [
+            "lamendiga", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MyDarkWitch", 
+        "from_user_id_str": "143691800", 
+        "hashtags": [], 
+        "id_str": "726863400014221312", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 19:58:33 +0000 2016", 
+        "user_followers_count": 153, 
+        "user_friends_count": 294, 
+        "user_location": "Mexico City", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "NeyvaPM", 
+        "from_user_id_str": "310354903", 
+        "hashtags": [
+            "Multas", 
+            "HoyNoCircula", 
+            "CDMX"
+        ], 
+        "id_str": "726862998652907520", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @YazzisTa: Ccp @ManceraMiguelMX los malos tratos, se los paso al costo. #Multas #HoyNoCircula #CDMX https://t.co/vIBYagCTWG", 
+        "time": "Sun May 01 19:56:57 +0000 2016", 
+        "user_followers_count": 78, 
+        "user_friends_count": 121, 
+        "user_location": "None", 
+        "user_mentions": [
+            "YazzisTa", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "storm690126", 
+        "from_user_id_str": "102386308", 
+        "hashtags": [], 
+        "id_str": "726862593000792064", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 19:55:21 +0000 2016", 
+        "user_followers_count": 1354, 
+        "user_friends_count": 2054, 
+        "user_location": "Ciudad de Mexico", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "angelicaalcarax", 
+        "from_user_id_str": "1656650688", 
+        "hashtags": [], 
+        "id_str": "726860830088654848", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Langostaplease: @ManceraMiguelMX \u00bfseguimos haci\u00e9ndonos pendejos con hoy no circula y programas en radio o ya nos ponemos a trabajar? ht\u2026", 
+        "time": "Sun May 01 19:48:20 +0000 2016", 
+        "user_followers_count": 1168, 
+        "user_friends_count": 2465, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Langostaplease", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "angielpf", 
+        "from_user_id_str": "186335465", 
+        "hashtags": [], 
+        "id_str": "726860336616206337", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 19:46:23 +0000 2016", 
+        "user_followers_count": 218, 
+        "user_friends_count": 427, 
+        "user_location": "Tejeringo, El Chico, Mexico DF", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "chateaux7", 
+        "from_user_id_str": "1719933536", 
+        "hashtags": [], 
+        "id_str": "726859247217053696", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@ManceraMiguelMX @MAXWOODSlDE  \u00bfY el prox 10 de Mayo no vamos a salir a festejar a nuestra mam\u00e1, abuelita, suegra por el HOY NO CIRCULA? \ud83d\ude16\ud83d\ude16\ud83d\ude16", 
+        "time": "Sun May 01 19:42:03 +0000 2016", 
+        "user_followers_count": 7, 
+        "user_friends_count": 78, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX", 
+            "MAXWOODSlDE"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "alfredoromo64", 
+        "from_user_id_str": "1048045724", 
+        "hashtags": [], 
+        "id_str": "726858228798115840", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @rsperrilliat: Resoluci\u00f3n del TCC que niega la suspensi\u00f3n para el programa Hoy no Circula @RigobertoMtzB @FJCamachoR @avocatmo  https:\u2026", 
+        "time": "Sun May 01 19:38:00 +0000 2016", 
+        "user_followers_count": 53, 
+        "user_friends_count": 82, 
+        "user_location": "None", 
+        "user_mentions": [
+            "rsperrilliat", 
+            "RigobertoMtzB", 
+            "FJCamachoR", 
+            "avocatmo"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "eduman18", 
+        "from_user_id_str": "4287143418", 
+        "hashtags": [
+            "MeHaceMuyFeliz", 
+            "HoyNoCircula", 
+            "YoNuncaNunca"
+        ], 
+        "id_str": "726857725188050945", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Sophia_Mor: #MeHaceMuyFeliz levantar al muerto.#HoyNoCircula sino ganas de sexo#YoNuncaNunca dejar\u00e9 de incitarte. https://t.co/86Ep2v\u2026", 
+        "time": "Sun May 01 19:36:00 +0000 2016", 
+        "user_followers_count": 312, 
+        "user_friends_count": 989, 
+        "user_location": "Venustiano Carranza, Distrito ", 
+        "user_mentions": [
+            "Sophia_Mor"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "14Angeltov", 
+        "from_user_id_str": "2898542751", 
+        "hashtags": [], 
+        "id_str": "726856755628511232", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 19:32:09 +0000 2016", 
+        "user_followers_count": 122, 
+        "user_friends_count": 338, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "GeyersipOficial", 
+        "from_user_id_str": "716355884125855745", 
+        "hashtags": [
+            "Finanzas"
+        ], 
+        "id_str": "726856754416353280", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Proyecto40: Hoy no Circula limpia el camino a los autos el\u00e9ctricos. #Finanzas https://t.co/iZmADylSH8 https://t.co/cK0kc3Ea9b", 
+        "time": "Sun May 01 19:32:09 +0000 2016", 
+        "user_followers_count": 89, 
+        "user_friends_count": 157, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Proyecto40"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Circuito_mx", 
+        "from_user_id_str": "764657184", 
+        "hashtags": [
+            "CEM", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726855966872883200", 
+        "in_reply_to_screen_name": "omargr1988", 
+        "in_reply_to_status_id_str": "726853314692816897", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Buenas tardes, @omargr1988. Si, en el #CEM aplica el #HoyNoCircula. Saludos", 
+        "time": "Sun May 01 19:29:01 +0000 2016", 
+        "user_followers_count": 22589, 
+        "user_friends_count": 6148, 
+        "user_location": "Estado de M\u00e9xico", 
+        "user_mentions": [
+            "omargr1988"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "antoni_wuansis", 
+        "from_user_id_str": "733659596", 
+        "hashtags": [
+            "MeHaceMuyFeliz", 
+            "HoyNoCircula", 
+            "YoNuncaNunca"
+        ], 
+        "id_str": "726853638358896640", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Sophia_Mor: #MeHaceMuyFeliz levantar al muerto.#HoyNoCircula sino ganas de sexo#YoNuncaNunca dejar\u00e9 de incitarte. https://t.co/86Ep2v\u2026", 
+        "time": "Sun May 01 19:19:46 +0000 2016", 
+        "user_followers_count": 52, 
+        "user_friends_count": 325, 
+        "user_location": "Yecapixtla, Morelos", 
+        "user_mentions": [
+            "Sophia_Mor"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MaritzaDiazD", 
+        "from_user_id_str": "1904105132", 
+        "hashtags": [], 
+        "id_str": "726853326902431744", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @CDMXMetro: Nadie se escapa del Hoy no circula. Ni Harry ni su escoba. https://t.co/EnkVDVH7aE", 
+        "time": "Sun May 01 19:18:32 +0000 2016", 
+        "user_followers_count": 908, 
+        "user_friends_count": 1122, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CDMXMetro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "omargr1988", 
+        "from_user_id_str": "3222688554", 
+        "hashtags": [], 
+        "id_str": "726853314692816897", 
+        "in_reply_to_screen_name": "Circuito_mx", 
+        "in_reply_to_status_id_str": "726795295070146561", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@Circuito_mx hola! En el CEM aplica el hoy no circula?", 
+        "time": "Sun May 01 19:18:29 +0000 2016", 
+        "user_followers_count": 2, 
+        "user_friends_count": 5, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Circuito_mx"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "marglezdelarosa", 
+        "from_user_id_str": "2821261413", 
+        "hashtags": [], 
+        "id_str": "726852816606625792", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 19:16:30 +0000 2016", 
+        "user_followers_count": 145, 
+        "user_friends_count": 240, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Leonhard666", 
+        "from_user_id_str": "2801331353", 
+        "hashtags": [
+            "ContingenciaAmbiental"
+        ], 
+        "id_str": "726852663980105728", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "\u00bfCu\u00e1l es la contaminaci\u00f3n a causa del paseo ciclista?#ContingenciaAmbiental Eres un pendejo @ManceraMiguelMX ...https://t.co/GJIpqdQlqc", 
+        "time": "Sun May 01 19:15:54 +0000 2016", 
+        "user_followers_count": 52, 
+        "user_friends_count": 156, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lamendiga", 
+        "from_user_id_str": "94723256", 
+        "hashtags": [], 
+        "id_str": "726852271510720512", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@ManceraMiguelMX ... Los Domingos no hay  contingencia ambiental ???  Es permitida la quema de cuetes como lo estan haciendo en Cuajimalpa?", 
+        "time": "Sun May 01 19:14:20 +0000 2016", 
+        "user_followers_count": 125, 
+        "user_friends_count": 197, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "artemiritzel", 
+        "from_user_id_str": "714304351020326914", 
+        "hashtags": [
+            "GuerraDeEstados", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726852207904067585", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @jccancun01: Iba a entrarle a una #GuerraDeEstados y atacar a los chilaquiles pero ya se los est\u00e1 cargando el carajo y no tuve coraz\u00f3n.\u2026", 
+        "time": "Sun May 01 19:14:05 +0000 2016", 
+        "user_followers_count": 174, 
+        "user_friends_count": 333, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "jccancun01"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "IngeTravieso", 
+        "from_user_id_str": "725503032583053312", 
+        "hashtags": [
+            "MeHaceMuyFeliz", 
+            "HoyNoCircula", 
+            "YoNuncaNunca"
+        ], 
+        "id_str": "726852199775510529", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Sophia_Mor: #MeHaceMuyFeliz levantar al muerto.#HoyNoCircula sino ganas de sexo#YoNuncaNunca dejar\u00e9 de incitarte. https://t.co/86Ep2v\u2026", 
+        "time": "Sun May 01 19:14:03 +0000 2016", 
+        "user_followers_count": 28, 
+        "user_friends_count": 155, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Sophia_Mor"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "raulpaz74", 
+        "from_user_id_str": "235192031", 
+        "hashtags": [], 
+        "id_str": "726852123472732160", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @CDMXMetro: Nadie se escapa del Hoy no circula. Ni Harry ni su escoba. https://t.co/EnkVDVH7aE", 
+        "time": "Sun May 01 19:13:45 +0000 2016", 
+        "user_followers_count": 62, 
+        "user_friends_count": 208, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CDMXMetro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BarushGonzalezG", 
+        "from_user_id_str": "1485708541", 
+        "hashtags": [], 
+        "id_str": "726851857490931712", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 19:12:41 +0000 2016", 
+        "user_followers_count": 1376, 
+        "user_friends_count": 2560, 
+        "user_location": "CDMX.", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "IsabelJunco", 
+        "from_user_id_str": "881236776", 
+        "hashtags": [], 
+        "id_str": "726851808241422336", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 19:12:29 +0000 2016", 
+        "user_followers_count": 884, 
+        "user_friends_count": 325, 
+        "user_location": "Distrito Federal, M\u00e9xico", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "eunice2877", 
+        "from_user_id_str": "187625489", 
+        "hashtags": [], 
+        "id_str": "726851504099856384", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 19:11:17 +0000 2016", 
+        "user_followers_count": 346, 
+        "user_friends_count": 361, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "arellano949", 
+        "from_user_id_str": "157361422", 
+        "hashtags": [], 
+        "id_str": "726851376773390336", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 19:10:47 +0000 2016", 
+        "user_followers_count": 1447, 
+        "user_friends_count": 1557, 
+        "user_location": " Puebla de Zaragoza.. M\u00e9xico", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Hades_UW_Lord", 
+        "from_user_id_str": "2193185989", 
+        "hashtags": [], 
+        "id_str": "726851090327568384", 
+        "in_reply_to_screen_name": "Notimex", 
+        "in_reply_to_status_id_str": "726850443062583296", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@Notimex...CLARO...A UNO TOTALMENTE EL\u00c9CTRICO NO LE PUEDEN EXIGIR VERIFICACI\u00d3N...Y SE ACAB\u00d3 EL NEGOCITO...Y EL HOY NO CIRCULA...T\u00d3MALA...!", 
+        "time": "Sun May 01 19:09:38 +0000 2016", 
+        "user_followers_count": 92, 
+        "user_friends_count": 214, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Notimex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "the360wookie", 
+        "from_user_id_str": "68753179", 
+        "hashtags": [], 
+        "id_str": "726850943065575424", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Es un hecho aislado comentar\u00e1n nuestras autoridades m\u00e1s preocupadas por el Hoy no circula. https://t.co/rRLrMiV83W", 
+        "time": "Sun May 01 19:09:03 +0000 2016", 
+        "user_followers_count": 406, 
+        "user_friends_count": 1978, 
+        "user_location": "Mexico", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Becerril_Ruth", 
+        "from_user_id_str": "3301117226", 
+        "hashtags": [], 
+        "id_str": "726848527104536577", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:59:27 +0000 2016", 
+        "user_followers_count": 145, 
+        "user_friends_count": 102, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "wiwicho77", 
+        "from_user_id_str": "1266081528", 
+        "hashtags": [], 
+        "id_str": "726848245696073728", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:58:20 +0000 2016", 
+        "user_followers_count": 304, 
+        "user_friends_count": 1701, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DiAlaineMorJim", 
+        "from_user_id_str": "348499844", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726848152838377472", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el #HoyNoCircula ampliado. https://t.co/Xtzesq4oTB https://t.co/Dvobvg8P9v", 
+        "time": "Sun May 01 18:57:58 +0000 2016", 
+        "user_followers_count": 172, 
+        "user_friends_count": 826, 
+        "user_location": "Puebla, Puebla; M\u00e9xico", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "alberto2791", 
+        "from_user_id_str": "2602630418", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726846598127345665", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el #HoyNoCircula ampliado. https://t.co/Xtzesq4oTB https://t.co/Dvobvg8P9v", 
+        "time": "Sun May 01 18:51:47 +0000 2016", 
+        "user_followers_count": 30, 
+        "user_friends_count": 492, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Chavaciudadano", 
+        "from_user_id_str": "995704554", 
+        "hashtags": [], 
+        "id_str": "726846534583615488", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @joseacontreras: Basura proveniente de CDMX deposita en Cuatla podr\u00eda ocasionar contingencia\u00a0ambiental https://t.co/bmxgs4rBgL https://t\u2026", 
+        "time": "Sun May 01 18:51:32 +0000 2016", 
+        "user_followers_count": 635, 
+        "user_friends_count": 826, 
+        "user_location": "MEXICO", 
+        "user_mentions": [
+            "joseacontreras"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "bonmolo124pil", 
+        "from_user_id_str": "619339258", 
+        "hashtags": [], 
+        "id_str": "726845607189565440", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @joseacontreras: Basura proveniente de CDMX deposita en Cuatla podr\u00eda ocasionar contingencia\u00a0ambiental https://t.co/bmxgs4rBgL https://t\u2026", 
+        "time": "Sun May 01 18:47:51 +0000 2016", 
+        "user_followers_count": 36, 
+        "user_friends_count": 2138, 
+        "user_location": "None", 
+        "user_mentions": [
+            "joseacontreras"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ruiz961", 
+        "from_user_id_str": "98897118", 
+        "hashtags": [
+            "mm", 
+            "contingenciaambiental"
+        ], 
+        "id_str": "726844475511701504", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "\u00bfY como para cu\u00e1ndo empezar\u00e1 a retirar topes, don @ManceraMiguelMX? #mm #contingenciaambiental No veo claro...", 
+        "time": "Sun May 01 18:43:21 +0000 2016", 
+        "user_followers_count": 601, 
+        "user_friends_count": 1960, 
+        "user_location": "MEXICO, DF", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "raul_hersa", 
+        "from_user_id_str": "860805427", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "CDMX"
+        ], 
+        "id_str": "726844291583086592", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @crisballinas: De esta imagen (circa 1870) al #HoyNoCircula en la #CDMX en solo 150 a\u00f1os cc @ivabelle_a https://t.co/AhIf0mB6bb", 
+        "time": "Sun May 01 18:42:37 +0000 2016", 
+        "user_followers_count": 234, 
+        "user_friends_count": 1105, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "crisballinas", 
+            "ivabelle_a"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "chekko131", 
+        "from_user_id_str": "4085341694", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726843921511256064", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el #HoyNoCircula ampliado. https://t.co/Xtzesq4oTB https://t.co/Dvobvg8P9v", 
+        "time": "Sun May 01 18:41:09 +0000 2016", 
+        "user_followers_count": 101, 
+        "user_friends_count": 482, 
+        "user_location": "Zacatelco, Tlaxcala", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "mautapg6", 
+        "from_user_id_str": "1871887111", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726843451501760512", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el #HoyNoCircula ampliado. https://t.co/Xtzesq4oTB https://t.co/Dvobvg8P9v", 
+        "time": "Sun May 01 18:39:17 +0000 2016", 
+        "user_followers_count": 253, 
+        "user_friends_count": 1227, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ANALARAPAZ", 
+        "from_user_id_str": "117645629", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726843255707422720", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Comunidad_Exc: Impulsan carpooling entre universitarios ante el #HoyNoCircula ampliado. https://t.co/oEkksBv5J6 https://t.co/lHUUrGItPn", 
+        "time": "Sun May 01 18:38:30 +0000 2016", 
+        "user_followers_count": 1612, 
+        "user_friends_count": 820, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Comunidad_Exc"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ness_ernesto", 
+        "from_user_id_str": "2960868447", 
+        "hashtags": [], 
+        "id_str": "726842476946812928", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:35:25 +0000 2016", 
+        "user_followers_count": 87, 
+        "user_friends_count": 47, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "pieras_arturo", 
+        "from_user_id_str": "719798431963676673", 
+        "hashtags": [], 
+        "id_str": "726841994849349633", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:33:30 +0000 2016", 
+        "user_followers_count": 32, 
+        "user_friends_count": 225, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "joan_00", 
+        "from_user_id_str": "106972672", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726841471224020993", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @BrianSlnSuerte: Se compra un carro del a\u00f1o.Deja de circular todos los d\u00edas.#HoyNoCircula", 
+        "time": "Sun May 01 18:31:25 +0000 2016", 
+        "user_followers_count": 156, 
+        "user_friends_count": 856, 
+        "user_location": "Distrito Federal", 
+        "user_mentions": [
+            "BrianSlnSuerte"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Factor_Noticia", 
+        "from_user_id_str": "820518048", 
+        "hashtags": [], 
+        "id_str": "726840772788518913", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:28:38 +0000 2016", 
+        "user_followers_count": 2884, 
+        "user_friends_count": 488, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DonnovanMtz", 
+        "from_user_id_str": "3249804944", 
+        "hashtags": [], 
+        "id_str": "726840751133315072", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:28:33 +0000 2016", 
+        "user_followers_count": 42, 
+        "user_friends_count": 198, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "GoodbottomJesus", 
+        "from_user_id_str": "2873335253", 
+        "hashtags": [], 
+        "id_str": "726839933109850112", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:25:18 +0000 2016", 
+        "user_followers_count": 631, 
+        "user_friends_count": 869, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "burbux01", 
+        "from_user_id_str": "3224759251", 
+        "hashtags": [], 
+        "id_str": "726839625294077952", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:24:05 +0000 2016", 
+        "user_followers_count": 114, 
+        "user_friends_count": 149, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Raffflesss", 
+        "from_user_id_str": "114771620", 
+        "hashtags": [], 
+        "id_str": "726836085309870081", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:10:01 +0000 2016", 
+        "user_followers_count": 379, 
+        "user_friends_count": 475, 
+        "user_location": "M\u00e9xico, D.F.", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "KAIZER_X90", 
+        "from_user_id_str": "191634316", 
+        "hashtags": [], 
+        "id_str": "726835937527746561", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @MrElDiablo8: Ayer en la CDMX, hoy en el Edomex y ambas autoridades preocupadas por el Hoy No Circula sin poner atenci\u00f3n ... https://t.c\u2026", 
+        "time": "Sun May 01 18:09:26 +0000 2016", 
+        "user_followers_count": 1000, 
+        "user_friends_count": 2223, 
+        "user_location": "MX", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "cuppycakeworld", 
+        "from_user_id_str": "710957705511329797", 
+        "hashtags": [], 
+        "id_str": "726835716261470208", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @NoSoyLacia_: @ManceraMiguelMX @MetroCDMX mejor trabajen por un transporte p\u00fablico digno y por quitar tu puto Hoy No Circula", 
+        "time": "Sun May 01 18:08:33 +0000 2016", 
+        "user_followers_count": 6, 
+        "user_friends_count": 40, 
+        "user_location": "None", 
+        "user_mentions": [
+            "NoSoyLacia_", 
+            "ManceraMiguelMX", 
+            "MetroCDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726834350478626816", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726832175354548224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCMVerificaci\u00f3n ambiental s\u00f3lo es recaudatoriano mide la contaminaci\u00f3nhttps://t.co/RmfUN4Ijvp#HoyNoCirculahttps://t.co/inGCgK3Cl3", 
+        "time": "Sun May 01 18:03:07 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "CDMX"
+        ], 
+        "id_str": "726833865050869760", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726832175354548224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM Ante la inevitable contaminaci\u00f3n que genera el MB https://t.co/V2q9xSbizJ#HoyNoCircula #CDMXhttps://t.co/gNrWUWBc1S", 
+        "time": "Sun May 01 18:01:12 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Xochitl_Larios", 
+        "from_user_id_str": "57945000", 
+        "hashtags": [], 
+        "id_str": "726833702664183808", 
+        "in_reply_to_screen_name": "elzut", 
+        "in_reply_to_status_id_str": "726828036201402368", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@elzut @Vanyjaramillo @ambiente_leon pero su l\u00f3gica es sencilla, no pasa nada en tanto no se llegue a la precontingencia", 
+        "time": "Sun May 01 18:00:33 +0000 2016", 
+        "user_followers_count": 659, 
+        "user_friends_count": 234, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "elzut", 
+            "Vanyjaramillo", 
+            "ambiente_leon"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "CDMX", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726833467414081536", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726832175354548224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM Contaminan 30 mil microbuses #CDMXhttps://t.co/WqeyPGsFUT #HoyNoCirculaMayo 2015https://t.co/v7rG6k7jad", 
+        "time": "Sun May 01 17:59:37 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "CDMX", 
+            "Mexico"
+        ], 
+        "id_str": "726833113158938624", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726832175354548224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM Rotundo Fracaso del #HoyNoCircula Recargadohttps://t.co/wUzjz2NoSl#CDMX #Mexicohttps://t.co/AkFZHtcoHw", 
+        "time": "Sun May 01 17:58:12 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "CDMX", 
+            "Mexico"
+        ], 
+        "id_str": "726833022473883648", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726832175354548224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM #HoyNoCircula genera p\u00e9rdidas de hasta 16 mdp: Canacope-Servyturhttps://t.co/lklcm6m6re#CDMX #Mexico", 
+        "time": "Sun May 01 17:57:51 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "_LuisamariaV", 
+        "from_user_id_str": "963546722", 
+        "hashtags": [
+            "GuerraDeEstados", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726832248356401152", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @jccancun01: Iba a entrarle a una #GuerraDeEstados y atacar a los chilaquiles pero ya se los est\u00e1 cargando el carajo y no tuve coraz\u00f3n.\u2026", 
+        "time": "Sun May 01 17:54:46 +0000 2016", 
+        "user_followers_count": 546, 
+        "user_friends_count": 1483, 
+        "user_location": "None", 
+        "user_mentions": [
+            "jccancun01"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "CDMX", 
+            "Mexico", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726832028746805248", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726831625410109440", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM Pemex se aferra a combustible sucio. https://t.co/iSVv7uyIrk#CDMX #Mexico #HoyNoCirculahttps://t.co/dultKpoVVo", 
+        "time": "Sun May 01 17:53:54 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "CDMX"
+        ], 
+        "id_str": "726829427565297664", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726658332853940224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM Ni #HoyNoCircula, Ni Ciclovias, Ni BicicletasAbsorben el Di\u00f3xido de Carbono(CO2)#CDMXhttps://t.co/aGCuSWkThz", 
+        "time": "Sun May 01 17:43:34 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726829191941869568", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726658332853940224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCMVeh\u00edculos sin normas internacionalesGasolinas de mala calidadCorrupci\u00f3n=Contaminaci\u00f3nhttps://t.co/4NtFYy9ObN#HoyNoCircula", 
+        "time": "Sun May 01 17:42:37 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "mcomesa89", 
+        "from_user_id_str": "2962730891", 
+        "hashtags": [], 
+        "id_str": "726828991475130369", 
+        "in_reply_to_screen_name": "NoticiasMVS", 
+        "in_reply_to_status_id_str": "726812879953911808", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@NoticiasMVS PUES HOY 1 DE MAYO CON LAS ESTUPIDAS MARCHAS HOY Y MA\u00d1ANA ESPERO PONGAN EL DOBLE HOY NO CIRCULA X PENDEJOS", 
+        "time": "Sun May 01 17:41:50 +0000 2016", 
+        "user_followers_count": 61, 
+        "user_friends_count": 80, 
+        "user_location": "Gustavo A. Madero, Distrito Fe", 
+        "user_mentions": [
+            "NoticiasMVS"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RaulRiosReyes_", 
+        "from_user_id_str": "696867334359617537", 
+        "hashtags": [
+            "CDMX", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726828841784594432", 
+        "in_reply_to_screen_name": "EstefyCM", 
+        "in_reply_to_status_id_str": "726658332853940224", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@EstefyCM 5 mitos de andar de cleto en @ecobici por #CDMXhttps://t.co/vSzSEvtihS#HoyNoCirculahttps://t.co/JIwjJGVh5G", 
+        "time": "Sun May 01 17:41:14 +0000 2016", 
+        "user_followers_count": 484, 
+        "user_friends_count": 1852, 
+        "user_location": "Mexico city", 
+        "user_mentions": [
+            "EstefyCM", 
+            "ecobici"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "playita13", 
+        "from_user_id_str": "162901826", 
+        "hashtags": [], 
+        "id_str": "726824234433974272", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @PoliticaCero_: Idea Millonaria: Hoy No Circula a los malosos, en \u00bfMafia, cu\u00e1l mafia?, por @jairocalixtohttps://t.co/nXVv6s0v1V", 
+        "time": "Sun May 01 17:22:55 +0000 2016", 
+        "user_followers_count": 198, 
+        "user_friends_count": 198, 
+        "user_location": "None", 
+        "user_mentions": [
+            "PoliticaCero_", 
+            "jairocalixto"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "fernajol", 
+        "from_user_id_str": "1387724660", 
+        "hashtags": [], 
+        "id_str": "726823129205473281", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "726807967362772992", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@ManceraMiguelMX gracias a tu hoy no circula gasto ese d\u00eda,  $100 usando metro y microbus solo para mi hija y yo, salario digno donde?? \ud83d\udca9", 
+        "time": "Sun May 01 17:18:32 +0000 2016", 
+        "user_followers_count": 56, 
+        "user_friends_count": 160, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "FactorNoticia", 
+        "from_user_id_str": "1378861441", 
+        "hashtags": [], 
+        "id_str": "726821588352397312", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 17:12:25 +0000 2016", 
+        "user_followers_count": 776, 
+        "user_friends_count": 359, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Factor_Noticia", 
+        "from_user_id_str": "820518048", 
+        "hashtags": [], 
+        "id_str": "726821533969059841", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 17:12:12 +0000 2016", 
+        "user_followers_count": 2884, 
+        "user_friends_count": 488, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "rodolfoa_ortiz", 
+        "from_user_id_str": "110884320", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726819479519264768", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Gracias @ManceraMiguelMX por tus cierres, mira c\u00f3mo tienes las avenidas. T\u00fa provocas la contaminaci\u00f3n #HoyNoCircula https://t.co/TzQf6SpGD3", 
+        "time": "Sun May 01 17:04:02 +0000 2016", 
+        "user_followers_count": 890, 
+        "user_friends_count": 913, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "PoliticaCero_", 
+        "from_user_id_str": "121936802", 
+        "hashtags": [], 
+        "id_str": "726819052144848896", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>", 
+        "text": "Idea Millonaria: Hoy No Circula a los malosos, en \u00bfMafia, cu\u00e1l mafia?, por @jairocalixtohttps://t.co/nXVv6s0v1V", 
+        "time": "Sun May 01 17:02:20 +0000 2016", 
+        "user_followers_count": 10236, 
+        "user_friends_count": 616, 
+        "user_location": "CDMX, M\u00e9xico.", 
+        "user_mentions": [
+            "jairocalixto"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Cjardon_29", 
+        "from_user_id_str": "1232164603", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726818875870838784", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 17:01:38 +0000 2016", 
+        "user_followers_count": 3550, 
+        "user_friends_count": 350, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RubenPT_drums", 
+        "from_user_id_str": "4307511672", 
+        "hashtags": [], 
+        "id_str": "726817324183900161", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015. https://t.co/emdzJaZrLu https://t.co/jgyGxsGmt2", 
+        "time": "Sun May 01 16:55:28 +0000 2016", 
+        "user_followers_count": 14, 
+        "user_friends_count": 88, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "cesarg022", 
+        "from_user_id_str": "577360249", 
+        "hashtags": [], 
+        "id_str": "726815724543430656", 
+        "in_reply_to_screen_name": "UCS_CDMX", 
+        "in_reply_to_status_id_str": "726452016646516736", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@UCS_CDMX @ManceraMiguelMX Son varios camiones, no era s\u00f3lo el de la foto hay m\u00e1s por favor hagan algo, yo si respeto el hoy no circula.", 
+        "time": "Sun May 01 16:49:06 +0000 2016", 
+        "user_followers_count": 19, 
+        "user_friends_count": 299, 
+        "user_location": "None", 
+        "user_mentions": [
+            "UCS_CDMX", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Jennifer_Trends", 
+        "from_user_id_str": "232940020", 
+        "hashtags": [], 
+        "id_str": "726815631702511616", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @sofffiaaa: Deber\u00eda existir un Hoy No Circula emocional para que una vez a la semana no puedas opinar ni tomar decisiones.", 
+        "time": "Sun May 01 16:48:44 +0000 2016", 
+        "user_followers_count": 39, 
+        "user_friends_count": 53, 
+        "user_location": "None", 
+        "user_mentions": [
+            "sofffiaaa"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "rafaelmty1", 
+        "from_user_id_str": "637367749", 
+        "hashtags": [
+            "GuerraDeEstados"
+        ], 
+        "id_str": "726815557903749126", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @eduardomndz1203: En la Cuidad de M\u00e9xico, todos nacen prietos para poder soportar la contingencia ambiental.  #GuerraDeEstados", 
+        "time": "Sun May 01 16:48:27 +0000 2016", 
+        "user_followers_count": 270, 
+        "user_friends_count": 610, 
+        "user_location": "None", 
+        "user_mentions": [
+            "eduardomndz1203"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lindurafrancia", 
+        "from_user_id_str": "1711308836", 
+        "hashtags": [
+            "Informaci\u00f3n\u00datilYOportuna", 
+            "Naucalpan", 
+            "CiudadConVida"
+        ], 
+        "id_str": "726815342681460736", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Oapas_ConVida: Cambios en el hoy no circula.  #Informaci\u00f3n\u00datilYOportuna #Naucalpan #CiudadConVida https://t.co/wnWQM7D9N8", 
+        "time": "Sun May 01 16:47:35 +0000 2016", 
+        "user_followers_count": 331, 
+        "user_friends_count": 769, 
+        "user_location": "ESTADO DE MEXICO", 
+        "user_mentions": [
+            "Oapas_ConVida"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "jerryvla83", 
+        "from_user_id_str": "2598673699", 
+        "hashtags": [
+            "Informaci\u00f3n\u00datilYOportuna", 
+            "Naucalpan", 
+            "CiudadConVida"
+        ], 
+        "id_str": "726815299941494784", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Oapas_ConVida: Cambios en el hoy no circula.  #Informaci\u00f3n\u00datilYOportuna #Naucalpan #CiudadConVida https://t.co/wnWQM7D9N8", 
+        "time": "Sun May 01 16:47:25 +0000 2016", 
+        "user_followers_count": 386, 
+        "user_friends_count": 995, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Oapas_ConVida"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BlogCiudadanoMX", 
+        "from_user_id_str": "993503796", 
+        "hashtags": [
+            "VidaS\u00ed", 
+            "CDMX", 
+            "AbortoEsViolencia", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726814636616491008", 
+        "in_reply_to_screen_name": "bbcmundo", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@bbcmundo #VidaS\u00ed En 2018 abortaremos la criminal ley de aborto en la #CDMX #AbortoEsViolencia #HoyNoCircula https://t.co/pPRtGJrHCc", 
+        "time": "Sun May 01 16:44:47 +0000 2016", 
+        "user_followers_count": 1989, 
+        "user_friends_count": 2498, 
+        "user_location": "None", 
+        "user_mentions": [
+            "bbcmundo"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BlogCiudadanoMX", 
+        "from_user_id_str": "993503796", 
+        "hashtags": [
+            "M\u00e9xico", 
+            "CDMX", 
+            "HoyNoCircula", 
+            "aborto", 
+            "AbortoEsViolencia"
+        ], 
+        "id_str": "726814532497084417", 
+        "in_reply_to_screen_name": "bbcmundo", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@bbcmundo #M\u00e9xico En la #CDMX se penaliza con el #HoyNoCircula y est\u00e1 despenalizado el crimen de #aborto \u00a1Qu\u00e9 absurdo! #AbortoEsViolencia", 
+        "time": "Sun May 01 16:44:22 +0000 2016", 
+        "user_followers_count": 1989, 
+        "user_friends_count": 2498, 
+        "user_location": "None", 
+        "user_mentions": [
+            "bbcmundo"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BeAraAra", 
+        "from_user_id_str": "2421090930", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726812222429614080", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Reporte98_5: Checa el calendario #HoyNoCircula para mayo 2016 https://t.co/liVrM04DCT https://t.co/hyj650ZZqW", 
+        "time": "Sun May 01 16:35:12 +0000 2016", 
+        "user_followers_count": 33, 
+        "user_friends_count": 266, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Reporte98_5"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "SoyAuriazul_", 
+        "from_user_id_str": "4862966300", 
+        "hashtags": [
+            "GuerraDeEstados", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726811406188707840", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @jccancun01: Iba a entrarle a una #GuerraDeEstados y atacar a los chilaquiles pero ya se los est\u00e1 cargando el carajo y no tuve coraz\u00f3n.\u2026", 
+        "time": "Sun May 01 16:31:57 +0000 2016", 
+        "user_followers_count": 242, 
+        "user_friends_count": 390, 
+        "user_location": "None", 
+        "user_mentions": [
+            "jccancun01"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MirzaSLG", 
+        "from_user_id_str": "472915661", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "ayuda"
+        ], 
+        "id_str": "726810320111460352", 
+        "in_reply_to_screen_name": "GobCDMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@GobCDMX el #HoyNoCircula  se suspende el 10 de mayo? #ayuda", 
+        "time": "Sun May 01 16:27:38 +0000 2016", 
+        "user_followers_count": 867, 
+        "user_friends_count": 1614, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "GobCDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MirzaSLG", 
+        "from_user_id_str": "472915661", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "ayuda"
+        ], 
+        "id_str": "726810181967876096", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@ManceraMiguelMX el #HoyNoCircula  se suspende el 10 de mayo? #ayuda", 
+        "time": "Sun May 01 16:27:05 +0000 2016", 
+        "user_followers_count": 867, 
+        "user_friends_count": 1614, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "dayanaced", 
+        "from_user_id_str": "2426160456", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726809974878269440", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Reporte98_5: Checa el calendario #HoyNoCircula para mayo 2016 https://t.co/liVrM04DCT https://t.co/hyj650ZZqW", 
+        "time": "Sun May 01 16:26:16 +0000 2016", 
+        "user_followers_count": 33, 
+        "user_friends_count": 93, 
+        "user_location": "M\u00e9xico, D.F.", 
+        "user_mentions": [
+            "Reporte98_5"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "odalis888", 
+        "from_user_id_str": "251868576", 
+        "hashtags": [
+            "Animaleaks"
+        ], 
+        "id_str": "726808827652411392", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @AnimaLeaks: #Animaleaks &gt;&gt; Declaran contingencia ambiental por muerte de peces. https://t.co/CND2F3TaVd", 
+        "time": "Sun May 01 16:21:42 +0000 2016", 
+        "user_followers_count": 329, 
+        "user_friends_count": 1202, 
+        "user_location": "None", 
+        "user_mentions": [
+            "AnimaLeaks"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Jurista54", 
+        "from_user_id_str": "91686558", 
+        "hashtags": [], 
+        "id_str": "726807130993385473", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Depredador_Exte: 8. El Hoy No Circula no baja la contaminaci\u00f3n https://t.co/6gUtdmPVTN", 
+        "time": "Sun May 01 16:14:58 +0000 2016", 
+        "user_followers_count": 984, 
+        "user_friends_count": 4204, 
+        "user_location": "MEXICO", 
+        "user_mentions": [
+            "Depredador_Exte"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Dr__Propofol", 
+        "from_user_id_str": "35093225", 
+        "hashtags": [], 
+        "id_str": "726806515860967425", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @pePelenme: El d\u00eda de guardia es como el Hoy No Circula de los m\u00e9dicos", 
+        "time": "Sun May 01 16:12:31 +0000 2016", 
+        "user_followers_count": 1247, 
+        "user_friends_count": 776, 
+        "user_location": "CDMX", 
+        "user_mentions": [
+            "pePelenme"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Brenlizeth_", 
+        "from_user_id_str": "2687951587", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726804350471794689", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @benny_emmanuel: Eso de que con el #HoyNoCircula se solucionar\u00e1 el problema de contaminaci\u00f3n es tan falso como la nariz de Megan Fox.O\u2026", 
+        "time": "Sun May 01 16:03:55 +0000 2016", 
+        "user_followers_count": 928, 
+        "user_friends_count": 968, 
+        "user_location": "Tuxtla Guti\u00e9rrez, Chiapas", 
+        "user_mentions": [
+            "benny_emmanuel"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BocaJuniors_02", 
+        "from_user_id_str": "2778286883", 
+        "hashtags": [], 
+        "id_str": "726804240136589312", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MariaFelicz: Deber\u00edan implementar el hoy no circula para las prietas que se maquillan la cara 10 tonos m\u00e1s claros que su piel y se deja\u2026", 
+        "time": "Sun May 01 16:03:28 +0000 2016", 
+        "user_followers_count": 650, 
+        "user_friends_count": 1056, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MariaFelicz"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "NaylaMarquez2", 
+        "from_user_id_str": "723309378057592833", 
+        "hashtags": [], 
+        "id_str": "726801734920630273", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MariaFelicz: Deber\u00edan implementar el hoy no circula para las prietas que se maquillan la cara 10 tonos m\u00e1s claros que su piel y se deja\u2026", 
+        "time": "Sun May 01 15:53:31 +0000 2016", 
+        "user_followers_count": 42, 
+        "user_friends_count": 105, 
+        "user_location": "Valle de Chalco Solidaridad, M", 
+        "user_mentions": [
+            "MariaFelicz"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MartiiTomi01", 
+        "from_user_id_str": "3242083431", 
+        "hashtags": [], 
+        "id_str": "726801714750312448", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @MariaFelicz: Deber\u00edan implementar el hoy no circula para las prietas que se maquillan la cara 10 tonos m\u00e1s claros que su piel y se deja\u2026", 
+        "time": "Sun May 01 15:53:26 +0000 2016", 
+        "user_followers_count": 345, 
+        "user_friends_count": 737, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MariaFelicz"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "CyroFre", 
+        "from_user_id_str": "3229457794", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726801682059943937", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 15:53:18 +0000 2016", 
+        "user_followers_count": 342, 
+        "user_friends_count": 268, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "_SorSicaria_", 
+        "from_user_id_str": "476293018", 
+        "hashtags": [], 
+        "id_str": "726801354723729408", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MariaFelicz: Deber\u00edan implementar el hoy no circula para las prietas que se maquillan la cara 10 tonos m\u00e1s claros que su piel y se deja\u2026", 
+        "time": "Sun May 01 15:52:00 +0000 2016", 
+        "user_followers_count": 2093, 
+        "user_friends_count": 1768, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "MariaFelicz"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "elgarrita_rock", 
+        "from_user_id_str": "286271826", 
+        "hashtags": [], 
+        "id_str": "726800106339504128", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@ManceraMiguelMX que poca madre cabron !!! Ya quita el hoy no circula  tu porque tienes mas carros.pinche ojete", 
+        "time": "Sun May 01 15:47:03 +0000 2016", 
+        "user_followers_count": 84, 
+        "user_friends_count": 659, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "jmunoz_77", 
+        "from_user_id_str": "2950524239", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "DomingoDeGanarSeguidores", 
+            "FelizDiaDelTrabajador", 
+            "FelizDomingo"
+        ], 
+        "id_str": "726798870022262784", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Problema resuelto #HoyNoCircula #DomingoDeGanarSeguidores #FelizDiaDelTrabajador #FelizDomingo @ManceraMiguelMX https://t.co/NFBbJ0XpVU", 
+        "time": "Sun May 01 15:42:08 +0000 2016", 
+        "user_followers_count": 148, 
+        "user_friends_count": 145, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lugarib1969", 
+        "from_user_id_str": "1166653592", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726798496104222720", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Reporte98_5: Checa el calendario #HoyNoCircula para mayo 2016 https://t.co/liVrM04DCT https://t.co/hyj650ZZqW", 
+        "time": "Sun May 01 15:40:39 +0000 2016", 
+        "user_followers_count": 258, 
+        "user_friends_count": 1066, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Reporte98_5"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "carlitoslara81", 
+        "from_user_id_str": "74833157", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726796488349601792", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Reporte98_5: Checa el calendario #HoyNoCircula para mayo 2016 https://t.co/liVrM04DCT https://t.co/hyj650ZZqW", 
+        "time": "Sun May 01 15:32:40 +0000 2016", 
+        "user_followers_count": 2360, 
+        "user_friends_count": 1954, 
+        "user_location": "Coacalco, Zumpango y CDMX. ", 
+        "user_mentions": [
+            "Reporte98_5"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "YazChau", 
+        "from_user_id_str": "3872151193", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726795487559348224", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 15:28:42 +0000 2016", 
+        "user_followers_count": 3560, 
+        "user_friends_count": 2943, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "TecAmbientalMx", 
+        "from_user_id_str": "712482894296395776", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726795347062738944", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 15:28:08 +0000 2016", 
+        "user_followers_count": 59, 
+        "user_friends_count": 25, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RTecAmbiental", 
+        "from_user_id_str": "4759470355", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726795138719092739", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 15:27:18 +0000 2016", 
+        "user_followers_count": 3760, 
+        "user_friends_count": 3191, 
+        "user_location": "Distrito Federal, M\u00e9xico", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "JoseRaulVR", 
+        "from_user_id_str": "3165926515", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726794789098676228", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 15:25:55 +0000 2016", 
+        "user_followers_count": 5611, 
+        "user_friends_count": 4179, 
+        "user_location": "M\u00e9xico D.F.", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "FernandoChau", 
+        "from_user_id_str": "267446590", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726794473494061057", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 15:24:40 +0000 2016", 
+        "user_followers_count": 3584, 
+        "user_friends_count": 3056, 
+        "user_location": "M\u00e9xico D.F.", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Miguelon3148", 
+        "from_user_id_str": "1345754533", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726794466959314944", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 15:24:38 +0000 2016", 
+        "user_followers_count": 78, 
+        "user_friends_count": 259, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "JorgePallaresM", 
+        "from_user_id_str": "181813767", 
+        "hashtags": [], 
+        "id_str": "726791907066548225", 
+        "in_reply_to_screen_name": "072AvialCDMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@072AvialCDMX Hoy no hay restricciones del hoy no circula ??", 
+        "time": "Sun May 01 15:14:28 +0000 2016", 
+        "user_followers_count": 778, 
+        "user_friends_count": 1823, 
+        "user_location": "Cuernavaca ", 
+        "user_mentions": [
+            "072AvialCDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "fervel2", 
+        "from_user_id_str": "376238828", 
+        "hashtags": [], 
+        "id_str": "726790805587787776", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el Hoy No Circula ampliado https://t.co/vCVLZVMWqb https://t.co/dyCF1HtrF4", 
+        "time": "Sun May 01 15:10:05 +0000 2016", 
+        "user_followers_count": 84, 
+        "user_friends_count": 293, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "korymartinez6", 
+        "from_user_id_str": "3510596856", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "lomasviral"
+        ], 
+        "id_str": "726789389905330176", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: El humor de @CarlosChaviraTV sobre el programa #HoyNoCircula en v\u00edsperas del nuevo plan ambiental. #lomasviralhttps://t.co/\u2026", 
+        "time": "Sun May 01 15:04:28 +0000 2016", 
+        "user_followers_count": 2, 
+        "user_friends_count": 25, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "CarlosChaviraTV"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Elsahue1", 
+        "from_user_id_str": "715608160317276160", 
+        "hashtags": [], 
+        "id_str": "726789009490382848", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Depredador_Exte: 6. El Hoy No Circula no baja la contaminaci\u00f3n https://t.co/NzRYIE1mUf", 
+        "time": "Sun May 01 15:02:57 +0000 2016", 
+        "user_followers_count": 243, 
+        "user_friends_count": 112, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Depredador_Exte"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "LaRedDeLasRedes", 
+        "from_user_id_str": "2798318996", 
+        "hashtags": [
+            "LasM\u00e1sLe\u00eddas"
+        ], 
+        "id_str": "726788356227526656", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "text": "#LasM\u00e1sLe\u00eddasReportan p\u00e9rdidas de 16 mdp por Hoy No Circula ---&gt; https://t.co/WRr1PxJlmP@CanunNino https://t.co/Ukvivw41KF", 
+        "time": "Sun May 01 15:00:21 +0000 2016", 
+        "user_followers_count": 1524, 
+        "user_friends_count": 340, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CanunNino"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "babe471119", 
+        "from_user_id_str": "54229135", 
+        "hashtags": [], 
+        "id_str": "726784885227036672", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Impulsan carpooling entre universitarios ante el Hoy No Circula ampliado https://t.co/bnfPDT3Wa3 v\u00eda @Excelsior", 
+        "time": "Sun May 01 14:46:34 +0000 2016", 
+        "user_followers_count": 387, 
+        "user_friends_count": 618, 
+        "user_location": "Mexico City", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MarceloSherman", 
+        "from_user_id_str": "800645785", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726784053916110848", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 14:43:16 +0000 2016", 
+        "user_followers_count": 1382, 
+        "user_friends_count": 2581, 
+        "user_location": "Buenos Aires, Argentina.", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "guillermovalbra", 
+        "from_user_id_str": "178898828", 
+        "hashtags": [], 
+        "id_str": "726783886412288001", 
+        "in_reply_to_screen_name": "SEDEMA_CDMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@SEDEMA_CDMX @ManceraMiguelMX @VILLALVAZO13 por que si seg\u00fan ay contingencia ambiental hay medio marat\u00f3n en reforma", 
+        "time": "Sun May 01 14:42:36 +0000 2016", 
+        "user_followers_count": 30, 
+        "user_friends_count": 128, 
+        "user_location": "Coyoac\u00e1n, Distrito Federal", 
+        "user_mentions": [
+            "SEDEMA_CDMX", 
+            "ManceraMiguelMX", 
+            "VILLALVAZO13"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "joefdz", 
+        "from_user_id_str": "364959662", 
+        "hashtags": [], 
+        "id_str": "726781176967389184", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015. https://t.co/emdzJaZrLu https://t.co/jgyGxsGmt2", 
+        "time": "Sun May 01 14:31:50 +0000 2016", 
+        "user_followers_count": 16, 
+        "user_friends_count": 97, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "SSarvelia", 
+        "from_user_id_str": "1016079848", 
+        "hashtags": [], 
+        "id_str": "726780422701486080", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el Hoy No Circula ampliado https://t.co/vCVLZVMWqb https://t.co/dyCF1HtrF4", 
+        "time": "Sun May 01 14:28:50 +0000 2016", 
+        "user_followers_count": 1228, 
+        "user_friends_count": 3188, 
+        "user_location": "None", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ClaudiaNogales2", 
+        "from_user_id_str": "3435960160", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726779655701716992", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 14:25:47 +0000 2016", 
+        "user_followers_count": 79, 
+        "user_friends_count": 252, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "alicecopca29632", 
+        "from_user_id_str": "3112948391", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726778299150520320", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 14:20:24 +0000 2016", 
+        "user_followers_count": 130, 
+        "user_friends_count": 295, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BeniMPD", 
+        "from_user_id_str": "1281426864", 
+        "hashtags": [], 
+        "id_str": "726778137678225408", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @CNNMex: Hoy No Circula impact\u00f3 en 7% tr\u00e1fico de OHL M\u00e9xico https://t.co/ht8vYTQsWM", 
+        "time": "Sun May 01 14:19:45 +0000 2016", 
+        "user_followers_count": 1377, 
+        "user_friends_count": 450, 
+        "user_location": "San Andr\u00e9s Cholula, Puebla", 
+        "user_mentions": [
+            "CNNMex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "TITANR101CK", 
+        "from_user_id_str": "3234538057", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726777704599552000", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 14:18:02 +0000 2016", 
+        "user_followers_count": 165, 
+        "user_friends_count": 183, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "silverm96418898", 
+        "from_user_id_str": "1646761508", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726777369411784704", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 14:16:42 +0000 2016", 
+        "user_followers_count": 102, 
+        "user_friends_count": 264, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "despiertaGuey", 
+        "from_user_id_str": "4677168780", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726776604223905794", 
+        "in_reply_to_screen_name": "Milenio", 
+        "in_reply_to_status_id_str": "726753181355507712", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@Milenio @ManceraMiguelMX no hay m\u00e1s ciego que el que no quiere ver. #HoyNoCircula la aceptaci\u00f3n.", 
+        "time": "Sun May 01 14:13:39 +0000 2016", 
+        "user_followers_count": 188, 
+        "user_friends_count": 530, 
+        "user_location": "Tabasco, M\u00e9xico", 
+        "user_mentions": [
+            "Milenio", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Caricatutronico", 
+        "from_user_id_str": "85475708", 
+        "hashtags": [], 
+        "id_str": "726776131987238914", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @Excelsior: Impulsan carpooling entre universitarios ante el Hoy No Circula ampliado https://t.co/vCVLZVMWqb https://t.co/dyCF1HtrF4", 
+        "time": "Sun May 01 14:11:47 +0000 2016", 
+        "user_followers_count": 3666, 
+        "user_friends_count": 3606, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "a_tuno", 
+        "from_user_id_str": "3740909772", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726775269625860097", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ADNecoambiental: Olv\u00eddate del #HoyNoCircula https://t.co/QQWgQbMGb3", 
+        "time": "Sun May 01 14:08:21 +0000 2016", 
+        "user_followers_count": 136, 
+        "user_friends_count": 699, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ADNecoambiental"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Ulpiano_Urbano", 
+        "from_user_id_str": "701286595039612928", 
+        "hashtags": [
+            "LoMasVisto"
+        ], 
+        "id_str": "726775039006101504", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: #LoMasVisto Quitan suspensi\u00f3n del Hoy no circula a Particulares. https://t.co/96YlXiZPpK https://t.co/aFLSRUGyOx", 
+        "time": "Sun May 01 14:07:26 +0000 2016", 
+        "user_followers_count": 127, 
+        "user_friends_count": 556, 
+        "user_location": "Distrito Federal, M\u00e9xico", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ralb1269", 
+        "from_user_id_str": "2559747305", 
+        "hashtags": [], 
+        "id_str": "726774329757716480", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Les quitan suspensi\u00f3n al Hoy no circula https://t.co/uzi00yUEdt v\u00eda @wordpressdotcom", 
+        "time": "Sun May 01 14:04:37 +0000 2016", 
+        "user_followers_count": 194, 
+        "user_friends_count": 336, 
+        "user_location": "None", 
+        "user_mentions": [
+            "wordpressdotcom"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "pavia88", 
+        "from_user_id_str": "99382509", 
+        "hashtags": [], 
+        "id_str": "726759097266139137", 
+        "in_reply_to_screen_name": "pavia88", 
+        "in_reply_to_status_id_str": "726758901186613250", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@OskarinRayado lo peor es cuando se les ocurre el doble hoy no circula ah\u00ed si es de muerte Uber tarifas X7 y metro de la muerte", 
+        "time": "Sun May 01 13:04:05 +0000 2016", 
+        "user_followers_count": 746, 
+        "user_friends_count": 726, 
+        "user_location": "Monterrey", 
+        "user_mentions": [
+            "OskarinRayado"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "alain_bolaos", 
+        "from_user_id_str": "344363611", 
+        "hashtags": [], 
+        "id_str": "726752396802584576", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Depredador_Exte: 6. El Hoy No Circula no baja la contaminaci\u00f3n https://t.co/NzRYIE1mUf", 
+        "time": "Sun May 01 12:37:28 +0000 2016", 
+        "user_followers_count": 285, 
+        "user_friends_count": 578, 
+        "user_location": "df", 
+        "user_mentions": [
+            "Depredador_Exte"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "joracis", 
+        "from_user_id_str": "159949281", 
+        "hashtags": [], 
+        "id_str": "726751712749359104", 
+        "in_reply_to_screen_name": "HoyNoCircula_mx", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@HoyNoCircula_mx , PEMEX ES EN UN ROBO DESDE EL PUNTO DONDE L VEAS", 
+        "time": "Sun May 01 12:34:45 +0000 2016", 
+        "user_followers_count": 52, 
+        "user_friends_count": 216, 
+        "user_location": "None", 
+        "user_mentions": [
+            "HoyNoCircula_mx"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "fervasqez", 
+        "from_user_id_str": "148572995", 
+        "hashtags": [], 
+        "id_str": "726751632159969280", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Impulsan carpooling entre universitarios ante el Hoy No Circula ampliado https://t.co/TTb1nlfAOb v\u00eda @Excelsior", 
+        "time": "Sun May 01 12:34:26 +0000 2016", 
+        "user_followers_count": 319, 
+        "user_friends_count": 455, 
+        "user_location": "Saltillo, Coahuila Mexico.", 
+        "user_mentions": [
+            "Excelsior"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "RDBP1981", 
+        "from_user_id_str": "3094562934", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "Trolebus"
+        ], 
+        "id_str": "726749861459021824", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @LaReataTelevisa: Aqu\u00ed paseando; #HoyNoCircula esta Reatita \ud83d\ude01 pero el #Trolebus es gratuito \ud83d\ude83...\ud83d\udeb6\ud83c\udffd\ud83c\udfc3\ud83c\udffd\ud83d\udeb6\ud83c\udffd\ud83c\udfc3\ud83c\udffd\ud83d\udeb6\ud83c\udffd... una buena Migue!! \ud83d\udc83\ud83c\udffc \ud83d\ude0f htt\u2026", 
+        "time": "Sun May 01 12:27:23 +0000 2016", 
+        "user_followers_count": 180, 
+        "user_friends_count": 41, 
+        "user_location": "Distrito Federal, M\u00e9xico", 
+        "user_mentions": [
+            "LaReataTelevisa"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "calimocho_", 
+        "from_user_id_str": "3237123480", 
+        "hashtags": [
+            "DeLaSemana"
+        ], 
+        "id_str": "726747983090348034", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://twitter.com/calimocho_\" rel=\"nofollow\">App de calimocho5656</a>", 
+        "text": "RT @EfektoNoticias: #DeLaSemana Costar\u00e1 a ciudadan\u00eda capitalina Hoy No Circula m\u00e1s de 15 mmdp: @canacope https://t.co/AI1o16LGnw https://\u2026", 
+        "time": "Sun May 01 12:19:56 +0000 2016", 
+        "user_followers_count": 22, 
+        "user_friends_count": 58, 
+        "user_location": "None", 
+        "user_mentions": [
+            "EfektoNoticias", 
+            "canacope"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "AlbatrosVeloz", 
+        "from_user_id_str": "461543751", 
+        "hashtags": [], 
+        "id_str": "726745545071456256", 
+        "in_reply_to_screen_name": "AGUCDMX", 
+        "in_reply_to_status_id_str": "726712861326626816", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "@AGUCDMX si estamos en etapa de precontingencia y recomiendan no hacer actividades al aire libre, c\u00f3mo es que hacen el paseo ciclista?", 
+        "time": "Sun May 01 12:10:14 +0000 2016", 
+        "user_followers_count": 33, 
+        "user_friends_count": 226, 
+        "user_location": "None", 
+        "user_mentions": [
+            "AGUCDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "arana123", 
+        "from_user_id_str": "84122251", 
+        "hashtags": [
+            "EsPerfecto", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726729132332085249", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @kLetus15: #EsPerfecto mentarle su madre a Mancera x el #HoyNoCircula y tanta idiotez que hace", 
+        "time": "Sun May 01 11:05:01 +0000 2016", 
+        "user_followers_count": 3225, 
+        "user_friends_count": 3495, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "kLetus15"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "rabasa2016", 
+        "from_user_id_str": "4371036199", 
+        "hashtags": [], 
+        "id_str": "726725941779529728", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015. https://t.co/emdzJaZrLu https://t.co/jgyGxsGmt2", 
+        "time": "Sun May 01 10:52:21 +0000 2016", 
+        "user_followers_count": 13, 
+        "user_friends_count": 81, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "NotiApoyoVial", 
+        "from_user_id_str": "369927590", 
+        "hashtags": [], 
+        "id_str": "726714132511203328", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=NotiApoyoVial\" rel=\"nofollow\">NotiApoyoVial</a>", 
+        "text": "RT @ApoyoVial: Comparativa de la calidad del Aire respecto al 2015. https://t.co/emdzJaZrLu https://t.co/jgyGxsGmt2", 
+        "time": "Sun May 01 10:05:25 +0000 2016", 
+        "user_followers_count": 1462, 
+        "user_friends_count": 23, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ABellfiore", 
+        "from_user_id_str": "2835389493", 
+        "hashtags": [
+            "V\u00edaVerde"
+        ], 
+        "id_str": "726673817469247488", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @LuisGerardoM: Dejemos de quejarnos por la contingencia, el hoy no circula, los taxis y pasemos a la acci\u00f3n. Difunde #V\u00edaVerde. https://\u2026", 
+        "time": "Sun May 01 07:25:13 +0000 2016", 
+        "user_followers_count": 2060, 
+        "user_friends_count": 2074, 
+        "user_location": "M\u00e9xico DF", 
+        "user_mentions": [
+            "LuisGerardoM"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "tumamajijo", 
+        "from_user_id_str": "384749574", 
+        "hashtags": [], 
+        "id_str": "726670884346322944", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ricardozazuetac: Les comparto el calendario que aplicar\u00e1 para el Programa Hoy no Circula en la Ciudad de M\u00e9xico https://t.co/hIBEVk1Zlp", 
+        "time": "Sun May 01 07:13:34 +0000 2016", 
+        "user_followers_count": 502, 
+        "user_friends_count": 2450, 
+        "user_location": "m\u00e9xico", 
+        "user_mentions": [
+            "ricardozazuetac"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "p1chagoya", 
+        "from_user_id_str": "3254080760", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726661846749593600", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @storm690126: Polic\u00edas m\u00e1s interesados en atrapar autos d #HoyNoCircula q combatir delincuencia cobardes d izmierda @ManceraMiguelMX @Mr\u2026", 
+        "time": "Sun May 01 06:37:39 +0000 2016", 
+        "user_followers_count": 166, 
+        "user_friends_count": 70, 
+        "user_location": "None", 
+        "user_mentions": [
+            "storm690126", 
+            "ManceraMiguelMX", 
+            "MrElDiablo8", 
+            "retioDF"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "pieras_arturo", 
+        "from_user_id_str": "719798431963676673", 
+        "hashtags": [], 
+        "id_str": "726649817351360512", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 05:49:51 +0000 2016", 
+        "user_followers_count": 32, 
+        "user_friends_count": 225, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DonnovanMtz", 
+        "from_user_id_str": "3249804944", 
+        "hashtags": [], 
+        "id_str": "726648972899549184", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 05:46:30 +0000 2016", 
+        "user_followers_count": 42, 
+        "user_friends_count": 198, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MARHBER", 
+        "from_user_id_str": "124502732", 
+        "hashtags": [], 
+        "id_str": "726648888082337792", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: Claro ejemplo del fracaso HoynoCircula Insurgentes en estos momentos,   https://t.co/41QqsuSzsF, v\u00eda @rosario_lievana.", 
+        "time": "Sun May 01 05:46:10 +0000 2016", 
+        "user_followers_count": 21, 
+        "user_friends_count": 40, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "rosario_lievana"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BlogCiudadanoMX", 
+        "from_user_id_str": "993503796", 
+        "hashtags": [
+            "VidaS\u00ed", 
+            "CDMX", 
+            "AbortoEsViolencia", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726646788430524416", 
+        "in_reply_to_screen_name": "ElBigData_Mx", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@ElBigData_Mx #VidaS\u00ed En 2018 abortaremos la criminal ley de aborto en la #CDMX #AbortoEsViolencia #HoyNoCircula https://t.co/MSynsQFSd4", 
+        "time": "Sun May 01 05:37:49 +0000 2016", 
+        "user_followers_count": 1989, 
+        "user_friends_count": 2498, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ElBigData_Mx"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BlogCiudadanoMX", 
+        "from_user_id_str": "993503796", 
+        "hashtags": [
+            "M\u00e9xico", 
+            "CDMX", 
+            "HoyNoCircula", 
+            "AbortoEsViolencia"
+        ], 
+        "id_str": "726646675540844544", 
+        "in_reply_to_screen_name": "ElBigData_Mx", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@ElBigData_Mx #M\u00e9xico En la #CDMX se penaliza con el #HoyNoCircula y est\u00e1 despenalizado el crimen de aborto \u00a1Qu\u00e9 absurdo! #AbortoEsViolencia", 
+        "time": "Sun May 01 05:37:22 +0000 2016", 
+        "user_followers_count": 1989, 
+        "user_friends_count": 2498, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ElBigData_Mx"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "burbux01", 
+        "from_user_id_str": "3224759251", 
+        "hashtags": [], 
+        "id_str": "726646289014788096", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 05:35:50 +0000 2016", 
+        "user_followers_count": 114, 
+        "user_friends_count": 149, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "tetuantetuan", 
+        "from_user_id_str": "114963573", 
+        "hashtags": [], 
+        "id_str": "726643620057509889", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>", 
+        "text": "RT @CNNMex: Hoy No Circula impact\u00f3 en 7% tr\u00e1fico de OHL M\u00e9xico https://t.co/ht8vYTQsWM", 
+        "time": "Sun May 01 05:25:14 +0000 2016", 
+        "user_followers_count": 478, 
+        "user_friends_count": 388, 
+        "user_location": "GDL CDMX BCS MTY VER QRO ", 
+        "user_mentions": [
+            "CNNMex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "angelica9091", 
+        "from_user_id_str": "2911258616", 
+        "hashtags": [], 
+        "id_str": "726643303404306432", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @CNNMex: Hoy No Circula impact\u00f3 en 7% tr\u00e1fico de OHL M\u00e9xico https://t.co/ht8vYTQsWM", 
+        "time": "Sun May 01 05:23:58 +0000 2016", 
+        "user_followers_count": 1746, 
+        "user_friends_count": 1777, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CNNMex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DANYBOY7610", 
+        "from_user_id_str": "220465739", 
+        "hashtags": [], 
+        "id_str": "726642330346786816", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 05:20:06 +0000 2016", 
+        "user_followers_count": 95, 
+        "user_friends_count": 636, 
+        "user_location": "MEXICO D.F.", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "letyper25", 
+        "from_user_id_str": "721384446373441538", 
+        "hashtags": [], 
+        "id_str": "726642056966209537", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @CNNMex: Hoy No Circula impact\u00f3 en 7% tr\u00e1fico de OHL M\u00e9xico https://t.co/ht8vYTQsWM", 
+        "time": "Sun May 01 05:19:01 +0000 2016", 
+        "user_followers_count": 19, 
+        "user_friends_count": 54, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CNNMex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "rivera7712", 
+        "from_user_id_str": "3233859757", 
+        "hashtags": [], 
+        "id_str": "726642025299222528", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @CNNMex: Hoy No Circula impact\u00f3 en 7% tr\u00e1fico de OHL M\u00e9xico https://t.co/ht8vYTQsWM", 
+        "time": "Sun May 01 05:18:53 +0000 2016", 
+        "user_followers_count": 139, 
+        "user_friends_count": 810, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CNNMex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "gcordovaesteva", 
+        "from_user_id_str": "282897976", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726641790405599232", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @AAtaydeR: #HoyNoCircula dicen ser\u00e1 temporal. Autos contaminan, es correcto, pero el 70% es producido por transporte p\u00fablico y de carga.\u2026", 
+        "time": "Sun May 01 05:17:57 +0000 2016", 
+        "user_followers_count": 410, 
+        "user_friends_count": 970, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "AAtaydeR"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "marthaelcamacho", 
+        "from_user_id_str": "151987002", 
+        "hashtags": [], 
+        "id_str": "726641687301251079", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @isidrocorro: Hoy viaje en Uber y en 2 viajes me gast\u00e9 573 pesos! De Portales a Pemex 190 pesos y de Pemex a Arag\u00f3n 383! WTF!!! Gracias\u2026", 
+        "time": "Sun May 01 05:17:33 +0000 2016", 
+        "user_followers_count": 230, 
+        "user_friends_count": 407, 
+        "user_location": "MEXICO", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "marthaelcamacho", 
+        "from_user_id_str": "151987002", 
+        "hashtags": [], 
+        "id_str": "726641595676663809", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: En menos de 12 horas 6 personas han sido asesinadas en el Edomex y 2 m\u00e1s en la CDMX,mientras las autoridades preocupadas x\u2026", 
+        "time": "Sun May 01 05:17:11 +0000 2016", 
+        "user_followers_count": 230, 
+        "user_friends_count": 407, 
+        "user_location": "MEXICO", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "mastguerr", 
+        "from_user_id_str": "3011760115", 
+        "hashtags": [], 
+        "id_str": "726641347721994244", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @CNNMex: Hoy No Circula impact\u00f3 en 7% tr\u00e1fico de OHL M\u00e9xico https://t.co/ht8vYTQsWM", 
+        "time": "Sun May 01 05:16:12 +0000 2016", 
+        "user_followers_count": 164, 
+        "user_friends_count": 636, 
+        "user_location": "None", 
+        "user_mentions": [
+            "CNNMex"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "lucy_2020", 
+        "from_user_id_str": "982889666", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726636018103783424", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 04:55:01 +0000 2016", 
+        "user_followers_count": 169, 
+        "user_friends_count": 83, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "SOFIAPALOMINO5", 
+        "from_user_id_str": "4847787232", 
+        "hashtags": [
+            "CDMX", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726623382762987521", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Hectorcolinc: El Metro #CDMX, reflejo del  gobierno de @ManceraMiguelMX, as\u00ed la estaci\u00f3n Tacubaya en este momento. #HoyNoCircula https:\u2026", 
+        "time": "Sun May 01 04:04:49 +0000 2016", 
+        "user_followers_count": 385, 
+        "user_friends_count": 303, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "Hectorcolinc", 
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "AutoChilango", 
+        "from_user_id_str": "1472821195", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726622815068119044", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @DDMexico: \u00bfYa conoces @AutoChilango? Te ayudar\u00e1 a sobrevivir al #HoyNoCircula y a la verificaci\u00f3n https://t.co/qA4lHjIadW https://t.co/\u2026", 
+        "time": "Sun May 01 04:02:33 +0000 2016", 
+        "user_followers_count": 2528, 
+        "user_friends_count": 1344, 
+        "user_location": "DF", 
+        "user_mentions": [
+            "DDMexico", 
+            "AutoChilango"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "leonelaraiza", 
+        "from_user_id_str": "246582321", 
+        "hashtags": [], 
+        "id_str": "726619695982383104", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Si se midieran las PM2.5 en @AireGto \u00bfDesde cu\u00e1ndo estar\u00edamos en contingencia ambiental en @municipio_leon ?", 
+        "time": "Sun May 01 03:50:10 +0000 2016", 
+        "user_followers_count": 547, 
+        "user_friends_count": 623, 
+        "user_location": "Guanajuato.", 
+        "user_mentions": [
+            "AireGto", 
+            "municipio_leon"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BlogCiudadanoMX", 
+        "from_user_id_str": "993503796", 
+        "hashtags": [
+            "VidaS\u00ed", 
+            "CDMX", 
+            "AbortoEsViolencia", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726616871311540224", 
+        "in_reply_to_screen_name": "jorgeramosnews", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@jorgeramosnews #VidaS\u00ed En 2018 abortaremos la criminal ley de aborto en la #CDMX #AbortoEsViolencia #HoyNoCircula https://t.co/ixzvTEIeHp", 
+        "time": "Sun May 01 03:38:56 +0000 2016", 
+        "user_followers_count": 1989, 
+        "user_friends_count": 2498, 
+        "user_location": "None", 
+        "user_mentions": [
+            "jorgeramosnews"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BlogCiudadanoMX", 
+        "from_user_id_str": "993503796", 
+        "hashtags": [
+            "CDMX", 
+            "HoyNoCircula", 
+            "aborto", 
+            "AbortoEsViolencia"
+        ], 
+        "id_str": "726616694131593216", 
+        "in_reply_to_screen_name": "jorgeramosnews", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@jorgeramosnews En la #CDMX se penaliza con el #HoyNoCircula y est\u00e1 despenalizado el crimen de #aborto \u00a1Qu\u00e9 absurdo! #AbortoEsViolencia", 
+        "time": "Sun May 01 03:38:14 +0000 2016", 
+        "user_followers_count": 1989, 
+        "user_friends_count": 2498, 
+        "user_location": "None", 
+        "user_mentions": [
+            "jorgeramosnews"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "DUEMIKE", 
+        "from_user_id_str": "152810236", 
+        "hashtags": [], 
+        "id_str": "726613325841203200", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @CanacopeCDMX: CANACOPE CDMX | AZTECA NOTICIAS \u2018P\u00e9rdidas por Hoy No Circula ascienden a 16 mdp diarios\u2019: https://t.co/Daz5p9bpEM via @Yo\u2026", 
+        "time": "Sun May 01 03:24:51 +0000 2016", 
+        "user_followers_count": 2198, 
+        "user_friends_count": 2557, 
+        "user_location": "COMITAN, CHIAPAS, MEXICO", 
+        "user_mentions": [
+            "CanacopeCDMX", 
+            "YouTube"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "gsoriag", 
+        "from_user_id_str": "202844091", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "lomasviral"
+        ], 
+        "id_str": "726609649491804161", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>", 
+        "text": "RT @ApoyoVial: El humor de @CarlosChaviraTV sobre el programa #HoyNoCircula en v\u00edsperas del nuevo plan ambiental. #lomasviralhttps://t.co/\u2026", 
+        "time": "Sun May 01 03:10:14 +0000 2016", 
+        "user_followers_count": 1658, 
+        "user_friends_count": 1014, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "CarlosChaviraTV"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Salazar_Oz", 
+        "from_user_id_str": "268593610", 
+        "hashtags": [], 
+        "id_str": "726603272769818628", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @chacho_lml: Y sigue la mala calidad del aire pese al hoy no circula. Cuanto m\u00e1s durar\u00e1 esa beca? https://t.co/oVSMOQKU5j", 
+        "time": "Sun May 01 02:44:54 +0000 2016", 
+        "user_followers_count": 187, 
+        "user_friends_count": 418, 
+        "user_location": "None", 
+        "user_mentions": [
+            "chacho_lml"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Fuckingwish_", 
+        "from_user_id_str": "177413116", 
+        "hashtags": [], 
+        "id_str": "726594577075855360", 
+        "in_reply_to_screen_name": "ManceraMiguelMX", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@ManceraMiguelMX T\u00fa hoy no circula, es una completa estupidez, mis papas compraron un carro nuevo, no tiene ni una semana+", 
+        "time": "Sun May 01 02:10:21 +0000 2016", 
+        "user_followers_count": 560, 
+        "user_friends_count": 250, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ManceraMiguelMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "tonyaxe3", 
+        "from_user_id_str": "1260637698", 
+        "hashtags": [], 
+        "id_str": "726593836852477952", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 02:07:24 +0000 2016", 
+        "user_followers_count": 51, 
+        "user_friends_count": 210, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "francis85505410", 
+        "from_user_id_str": "716783882721341442", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "lomasviral"
+        ], 
+        "id_str": "726593067566817280", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: El humor de @CarlosChaviraTV sobre el programa #HoyNoCircula en v\u00edsperas del nuevo plan ambiental. #lomasviralhttps://t.co/\u2026", 
+        "time": "Sun May 01 02:04:21 +0000 2016", 
+        "user_followers_count": 6, 
+        "user_friends_count": 67, 
+        "user_location": "None", 
+        "user_mentions": [
+            "ApoyoVial", 
+            "CarlosChaviraTV"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "MxUlysses", 
+        "from_user_id_str": "2597958979", 
+        "hashtags": [
+            "DeLaSemana"
+        ], 
+        "id_str": "726593004195078144", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @EfektoNoticias: #DeLaSemana Costar\u00e1 a ciudadan\u00eda capitalina Hoy No Circula m\u00e1s de 15 mmdp: @canacope https://t.co/AI1o16LGnw https://\u2026", 
+        "time": "Sun May 01 02:04:06 +0000 2016", 
+        "user_followers_count": 11759, 
+        "user_friends_count": 2058, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "EfektoNoticias", 
+            "canacope"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "revistatyt", 
+        "from_user_id_str": "51459910", 
+        "hashtags": [
+            "ParaQueEst\u00e9sInformado", 
+            "trasporte", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726591472598806528", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "text": "#ParaQueEst\u00e9sInformado Piden en @AsambleaDF un horario especial para #trasporte de perecederos https://t.co/EpTjfrbL9x  #HoyNoCircula", 
+        "time": "Sun May 01 01:58:01 +0000 2016", 
+        "user_followers_count": 4146, 
+        "user_friends_count": 406, 
+        "user_location": "Tel. 53621501", 
+        "user_mentions": [
+            "AsambleaDF"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "esteban_martnz", 
+        "from_user_id_str": "500851173", 
+        "hashtags": [], 
+        "id_str": "726589279669915649", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 01:49:18 +0000 2016", 
+        "user_followers_count": 379, 
+        "user_friends_count": 294, 
+        "user_location": " MEXICO", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "BernardoBolanos", 
+        "from_user_id_str": "148579886", 
+        "hashtags": [
+            "HoyNoCircula"
+        ], 
+        "id_str": "726589165161193472", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Exacto. No le den vueltas, por eso era necesario #HoyNoCircula diferenciado. Pero lo tiraron PAN-Morena-@SCJN. https://t.co/Yf0BkZgTm5", 
+        "time": "Sun May 01 01:48:51 +0000 2016", 
+        "user_followers_count": 2692, 
+        "user_friends_count": 2172, 
+        "user_location": "Ciudad de M\u00e9xico", 
+        "user_mentions": [
+            "SCJN"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "garciajuan032", 
+        "from_user_id_str": "1717675740", 
+        "hashtags": [
+            "FelizJueves", 
+            "ContingenciaAmbiental", 
+            "JuevesDeGanarSeguidores"
+        ], 
+        "id_str": "726582975115055104", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @xanathvainilla: Besitos desde mi cama #FelizJueves #ContingenciaAmbiental hace que me duela la cabeza #JuevesDeGanarSeguidores https://\u2026", 
+        "time": "Sun May 01 01:24:15 +0000 2016", 
+        "user_followers_count": 136, 
+        "user_friends_count": 310, 
+        "user_location": "None", 
+        "user_mentions": [
+            "xanathvainilla"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "sabrigisel1", 
+        "from_user_id_str": "1631474508", 
+        "hashtags": [], 
+        "id_str": "726581372429697025", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>", 
+        "text": "RT @UnaMadreTonta: Mi hijo siempre llega de la Escuela con los ojos rojos, pobrecito, est\u00e1 contingencia ambiental est\u00e1 muy fuerte :(", 
+        "time": "Sun May 01 01:17:53 +0000 2016", 
+        "user_followers_count": 473, 
+        "user_friends_count": 435, 
+        "user_location": "libertad", 
+        "user_mentions": [
+            "UnaMadreTonta"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "deleon49", 
+        "from_user_id_str": "54598799", 
+        "hashtags": [
+            "CDMX", 
+            "HoyNoCircula"
+        ], 
+        "id_str": "726581122243526656", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @tcanita: @ManceraMiguelMX @GobCDMX por favor digan fecha de renovaci\u00f3n de veh\u00edculos de limpia, urge #CDMX #HoyNoCircula https://t.co/hL\u2026", 
+        "time": "Sun May 01 01:16:53 +0000 2016", 
+        "user_followers_count": 281, 
+        "user_friends_count": 329, 
+        "user_location": "Mexico", 
+        "user_mentions": [
+            "tcanita", 
+            "ManceraMiguelMX", 
+            "GobCDMX"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "LauSusyDM", 
+        "from_user_id_str": "90305371", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726580173923966976", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 01:13:07 +0000 2016", 
+        "user_followers_count": 94, 
+        "user_friends_count": 360, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "xe1cgs", 
+        "from_user_id_str": "244680973", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726578896582250496", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 01:08:02 +0000 2016", 
+        "user_followers_count": 65, 
+        "user_friends_count": 392, 
+        "user_location": "Ciudad de Mexico, DF", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Papitzin", 
+        "from_user_id_str": "3926298314", 
+        "hashtags": [], 
+        "id_str": "726576300228378624", 
+        "in_reply_to_screen_name": "JesusMartinRed", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@JesusMartinRed  Estos transportes tambi\u00e9n deber\u00edan entrarle al Hoy no circula con las mismas reglas de emisiones https://t.co/pPS6pP6lFc", 
+        "time": "Sun May 01 00:57:43 +0000 2016", 
+        "user_followers_count": 85, 
+        "user_friends_count": 271, 
+        "user_location": "None", 
+        "user_mentions": [
+            "JesusMartinRed"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "7111Carin", 
+        "from_user_id_str": "4687181100", 
+        "hashtags": [
+            "HoyNoCircula", 
+            "DuroyalasCabezas", 
+            "Exc\u00e9lsiorTv"
+        ], 
+        "id_str": "726570454224236545", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Excelsior: Sobre el #HoyNoCircula tiene comentarios @ivonnemelgar en #DuroyalasCabezas por #Exc\u00e9lsiorTv https://t.co/W52LWZsbPL", 
+        "time": "Sun May 01 00:34:29 +0000 2016", 
+        "user_followers_count": 11, 
+        "user_friends_count": 87, 
+        "user_location": "M\u00e9xico", 
+        "user_mentions": [
+            "Excelsior", 
+            "ivonnemelgar"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "rcrolando", 
+        "from_user_id_str": "122547257", 
+        "hashtags": [], 
+        "id_str": "726568613449064448", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @UnaMadreTonta: Mi hijo siempre llega de la Escuela con los ojos rojos, pobrecito, est\u00e1 contingencia ambiental est\u00e1 muy fuerte :(", 
+        "time": "Sun May 01 00:27:11 +0000 2016", 
+        "user_followers_count": 9516, 
+        "user_friends_count": 9795, 
+        "user_location": "None", 
+        "user_mentions": [
+            "UnaMadreTonta"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "QuintoValerio", 
+        "from_user_id_str": "482605432", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726568140478418945", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 00:25:18 +0000 2016", 
+        "user_followers_count": 274, 
+        "user_friends_count": 274, 
+        "user_location": "Mex D.F", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "anagar0", 
+        "from_user_id_str": "70775761", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726567388007665665", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 00:22:18 +0000 2016", 
+        "user_followers_count": 61, 
+        "user_friends_count": 338, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "alicecopca29632", 
+        "from_user_id_str": "3112948391", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726567214359281664", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 00:21:37 +0000 2016", 
+        "user_followers_count": 130, 
+        "user_friends_count": 295, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "Eneri_GV", 
+        "from_user_id_str": "265065444", 
+        "hashtags": [], 
+        "id_str": "726567081865420800", 
+        "in_reply_to_screen_name": "PamelaPamrebe", 
+        "in_reply_to_status_id_str": "726564632735834112", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@PamelaPamrebe @lorame2016 @KiaMotorsMexico \ud83d\ude2d mi hermana fue hoy por el y seg\u00fan no se lo dieron porque hoy no circula, pero a ver como le va", 
+        "time": "Sun May 01 00:21:05 +0000 2016", 
+        "user_followers_count": 4731, 
+        "user_friends_count": 2916, 
+        "user_location": "Cd. M\u00e9xico ", 
+        "user_mentions": [
+            "PamelaPamrebe", 
+            "lorame2016", 
+            "KiaMotorsMexico"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "AyudaPachu", 
+        "from_user_id_str": "708349338796183552", 
+        "hashtags": [], 
+        "id_str": "726564678332080128", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @ApoyoVial: Aumenta demanda de seminuevos gracias al Hoy no circula https://t.co/V7S7PBYJZJ https://t.co/AHLMQGL3uy", 
+        "time": "Sun May 01 00:11:32 +0000 2016", 
+        "user_followers_count": 180, 
+        "user_friends_count": 858, 
+        "user_location": "Pachuca de Soto, Hidalgo", 
+        "user_mentions": [
+            "ApoyoVial"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "pattitogomis", 
+        "from_user_id_str": "3674487260", 
+        "hashtags": [], 
+        "id_str": "726563692368695296", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @MrElDiablo8: Y las autoridades preocupadas por el Hoy No Circula Doble y las fotomultas , pues son casos aislados en el Oasis https\u2026", 
+        "time": "Sun May 01 00:07:37 +0000 2016", 
+        "user_followers_count": 879, 
+        "user_friends_count": 2563, 
+        "user_location": "None", 
+        "user_mentions": [
+            "MrElDiablo8"
+        ], 
+        "user_verified": "None"
+    }, 
+    {
+        "from_user": "ManoloU2", 
+        "from_user_id_str": "125271377", 
+        "hashtags": [
+            "CDMX"
+        ], 
+        "id_str": "726563690011480064", 
+        "in_reply_to_screen_name": "None", 
+        "in_reply_to_status_id_str": "None", 
+        "in_reply_to_user_id_str": "None", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @isidrocorro: Reguero de cuerpos en la #CDMX! Pero nuestra autoridad m\u00e1s preocupada por el Hoy No Circula!  https://t.co/6gMIqgHB3u", 
+        "time": "Sun May 01 00:07:37 +0000 2016", 
+        "user_followers_count": 82, 
+        "user_friends_count": 618, 
+        "user_location": "None", 
+        "user_mentions": [
+            "isidrocorro"
+        ], 
+        "user_verified": "None"
+    }
+]
